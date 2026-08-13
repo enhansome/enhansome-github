@@ -1,0 +1,2848 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "教程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitignore",
+          "description": "GitHub官方的.gitignore模板集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-23T16:06:45Z",
+            "owner": "github",
+            "repo": "gitignore",
+            "stars": 175268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub 秘籍",
+          "description": "本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-15T20:15:56Z",
+            "owner": "tiimgreen",
+            "repo": "github-cheat-sheet",
+            "stars": 58476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub 漫游指南",
+          "description": "phodal的GitHub故事与教程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2024-08-24T12:54:17Z",
+            "owner": "phodal",
+            "repo": "github",
+            "stars": 11129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github全程指南-如何高效使用？",
+          "description": "作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T11:31:33Z",
+            "owner": "xirong",
+            "repo": "my-git",
+            "stars": 7398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github MarkDown语法指南",
+          "description": "使用Github必备",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-24T16:05:32Z",
+            "owner": "guodongxiaren",
+            "repo": "README",
+            "stars": 7055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learn-with-open-source",
+          "description": "开放文档：《借助开源项目，学习软件开发》",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-05-16T16:50:45Z",
+            "owner": "zhuangbiaowei",
+            "repo": "learn-with-open-source",
+            "stars": 1762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《Github 帮助文档》 中文翻译",
+          "description": "包含了官方文档以及其他文章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-03T13:07:57Z",
+            "owner": "waylau",
+            "repo": "github-help",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github与Git简明教程",
+          "description": "lavor-zl 编写",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-31T06:59:07Z",
+            "owner": "lavor-zl",
+            "repo": "Github-Git",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open_source_analysis",
+          "description": "借助openhub.net分析开源项目，列举了开源历史上那些的成功项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-05-28T14:00:00Z",
+            "owner": "zhuangbiaowei",
+            "repo": "open_source_analysis",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-guide",
+          "description": "GitHub 使用指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-11-06T02:54:22Z",
+            "owner": "district10",
+            "repo": "github-guide",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "通用教程"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git-tips",
+          "description": "最常用的Git的提示和技巧。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:01:21Z",
+            "owner": "git-tips",
+            "repo": "tips",
+            "stars": 21722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-recipes",
+          "description": "高质量的Git中文教程，来自国外社区的优秀文章和个人实践",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-03-04T17:51:32Z",
+            "owner": "zhongyi-tong",
+            "repo": "git-recipes",
+            "stars": 14759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-style-guide",
+          "description": "git风格指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-26T20:12:02Z",
+            "owner": "agis",
+            "repo": "git-style-guide",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30 天精通 Git 版本控管",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-15T06:59:12Z",
+            "owner": "doggy8088",
+            "repo": "Learn-Git-in-30-days",
+            "stars": 4471
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progit2-zh",
+          "description": "Pro Git，第二版，简体中文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-03T00:18:54Z",
+            "owner": "progit",
+            "repo": "progit2-zh",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learn-git-basics",
+          "description": "git 指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-22T12:43:36Z",
+            "owner": "NataliaLKB",
+            "repo": "learn-git-basics",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git 进阶技巧",
+          "description": "适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-01-03T09:11:11Z",
+            "owner": "xhacker",
+            "repo": "GitProTips",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "工作中常用的Git命令行",
+          "description": "自己在工作中常用的Git命令行的小总结！",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-30T09:26:03Z",
+            "owner": "defaultyuan",
+            "repo": "Git-Pro",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Git使用"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "亲爱的GitHub",
+          "description": "致GitHub的一封公开信",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-20T13:17:03Z",
+            "owner": "dear-github",
+            "repo": "dear-github",
+            "stars": 5162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thank-you-github",
+          "description": "一封从GitHub毕业的公开信",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-11T00:50:05Z",
+            "owner": "thank-you-github",
+            "repo": "thank-you-github",
+            "stars": 1993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-commit-guide",
+          "description": "git commit message 指南",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-08-27T17:14:54Z",
+            "owner": "bluejava",
+            "repo": "git-commit-guide",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "文章"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "网站"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git-history",
+          "description": "这个工具可以非常形象地展示某个文件的提交历史，包括提交开发者的信息和时间，提交后文件的内容。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-10T10:15:02Z",
+            "owner": "pomber",
+            "repo": "git-history",
+            "stars": 13688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jekyllthemes",
+          "description": "一些好看的jekyll主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-10T18:45:27Z",
+            "owner": "mattvh",
+            "repo": "jekyllthemes",
+            "stars": 2335
+          }
+        }
+      ],
+      "title": "常用网站"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hexo",
+          "description": "通过Github Pages写博客的Node.js框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:42:36Z",
+            "owner": "hexojs",
+            "repo": "hexo",
+            "stars": 41769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "primer",
+          "description": "Primer 是 Github 工具包，用于 Github 前端设计。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T16:01:42Z",
+            "owner": "primer",
+            "repo": "css",
+            "stars": 13000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octicons",
+          "description": "GitHub的 图标字体",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:19:40Z",
+            "owner": "primer",
+            "repo": "octicons",
+            "stars": 8737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitTorrent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-29T20:45:39Z",
+            "owner": "cjb",
+            "repo": "GitTorrent",
+            "stars": 4758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "markdown-editor",
+          "description": "GitHub味道的markdown编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-06T22:37:29Z",
+            "owner": "jbt",
+            "repo": "markdown-editor",
+            "stars": 2874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classroom for GitHub",
+          "description": "Classroom for GitHub 可以自动创建代码仓库和访问控制，可以让老师很方便的在 GitHub 上发布代码任务和收集作业。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-03-12T15:25:27Z",
+            "owner": "github-education-resources",
+            "repo": "classroom",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backup-utils",
+          "description": "backup-utils 是 Github 企业备份工具，它包括一些备份和恢复工具。这些备份工具实现了多项用于备份主机的高级功能，还原功能也已经包括在 GitHub Enterprise 中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T22:47:55Z",
+            "owner": "github",
+            "repo": "backup-utils",
+            "stars": 1269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boennemann - badges",
+          "description": "各种徽章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2019-04-05T16:27:49Z",
+            "owner": "boennemann",
+            "repo": "badges",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gistblog",
+          "description": "gistblog 是一个简单的 Node.js 应用，使用 Github 的认证系统和 gist 提供的后台存储来实现博客的功能。可使用 Markdown 编写博客。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2014-08-04T17:16:58Z",
+            "owner": "jazzychad",
+            "repo": "gistblog",
+            "stars": 295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openspace",
+          "description": "Openspace 是一个用来将你在 Github 上的项目汇总显示在一个网页里的应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-22T11:37:16Z",
+            "owner": "EverythingMe",
+            "repo": "openspace",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "常用工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitee",
+          "description": "Gitee, OS X status bar application for Github 漂亮的GitHub数据统计工具，还有notifications功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-10-12T16:20:34Z",
+            "owner": "Nightonke",
+            "repo": "Gitee",
+            "stars": 1120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-dude",
+          "description": "git commit通知",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-12T09:45:53Z",
+            "owner": "ku1ik",
+            "repo": "git-dude",
+            "stars": 938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GithubPulse",
+          "description": "OS X状态栏的APP，帮你记住你在GitHub每天的贡献",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-24T03:25:58Z",
+            "owner": "tadeuzagallo",
+            "repo": "GithubPulse",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHubFolderDownloader",
+          "description": "可以下载一个仓库的单个文件夹的桌面工具",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2018-12-14T07:06:08Z",
+            "owner": "VahidN",
+            "repo": "GitHubFolderDownloader",
+            "stars": 175
+          }
+        }
+      ],
+      "title": "桌面工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeHub",
+          "description": "CodeHub是C#写的，它是iOS设备上最好的GitHub仓库浏览和维护工具。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-06-22T16:14:05Z",
+            "owner": "CodeHubApp",
+            "repo": "CodeHub",
+            "stars": 22581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVVMReactiveCocoa",
+          "description": "GitBucket iOS App，一个GitHub第三方客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2018-02-05T02:11:26Z",
+            "owner": "leichunfeng",
+            "repo": "MVVMReactiveCocoa",
+            "stars": 3690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHawk",
+          "description": "针对 GitHub 项目的项目管理应用",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2022-12-03T08:01:55Z",
+            "owner": "GitHawkApp",
+            "repo": "GitHawk",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForkHub",
+          "description": "Android平台的GitHub客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-19T15:39:54Z",
+            "owner": "jonan",
+            "repo": "ForkHub",
+            "stars": 2798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monkey",
+          "description": "Monkey是一个GitHub第三方iOS客户端，主要是用来展示GitHub上的开发者的排名，以及仓库的排名。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-04-25T12:12:01Z",
+            "owner": "coderyi",
+            "repo": "Monkey",
+            "stars": 1772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-gitfeed",
+          "description": "一个React Native写的Github客户端，支持iOS和Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-13T02:28:16Z",
+            "owner": "xiekw2010",
+            "repo": "react-native-gitfeed",
+            "stars": 1704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GithubWidget",
+          "description": "轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-11-07T15:11:41Z",
+            "owner": "Nightonke",
+            "repo": "GithubWidget",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GithubTrends",
+          "description": "Material Design风格的查看GitHub仓库trending app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-06-10T04:06:41Z",
+            "owner": "laowch",
+            "repo": "GithubTrends",
+            "stars": 644
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHubContributionsiOS",
+          "description": "显示你的GitHub Contributions的Today Extension,App Store链接,Contributions for GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-02-05T10:00:36Z",
+            "owner": "JustinFincher",
+            "repo": "GitHubContributionsiOS",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "githot",
+          "description": "GitHot是一个Android App,用来发现世界上最流行的项目和人",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-26T23:56:03Z",
+            "owner": "andyiac",
+            "repo": "githot",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepoStumble",
+          "description": "查看GitHub仓库的手机客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-15T03:25:24Z",
+            "owner": "thedillonb",
+            "repo": "RepoStumble",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github",
+          "description": "github第三方Android客户端（适配Material Design）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-04-20T11:40:28Z",
+            "owner": "seasonfif",
+            "repo": "github",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "igithub",
+          "description": "github 的iPhone端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2010-06-22T14:03:27Z",
+            "owner": "schacon",
+            "repo": "igithub",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sources",
+          "description": "一个极简的 Github 客户端，Sources。内置几十个语法高亮的主题可供选择。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-02-14T09:00:53Z",
+            "owner": "vulgur",
+            "repo": "Sources",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitmonitor-ios",
+          "description": "一个通知你不用再push代码的iOS app",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-04-07T10:40:46Z",
+            "owner": "theotow",
+            "repo": "gitmonitor-ios",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoolHub",
+          "description": "Github Android客户端（基于kotlin和组件化）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2020-07-13T03:29:54Z",
+            "owner": "m4coding",
+            "repo": "CoolHub",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitPocket",
+          "description": "Swift编写GitHub客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-10-08T21:20:11Z",
+            "owner": "jindulys",
+            "repo": "GitPocket",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitEgo",
+          "description": "Android平台的GitHub客户端",
+          "children": []
+        }
+      ],
+      "title": "App"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "refined-github",
+          "description": "chrome插件，简化你的github，增加了一些可用的功能",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:19:08Z",
+            "owner": "refined-github",
+            "repo": "refined-github",
+            "stars": 31924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octotree",
+          "description": "浏览器扩展，树状格式显示GitHub的代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T17:52:26Z",
+            "owner": "ovity",
+            "repo": "octotree",
+            "stars": 23228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-gitgutter",
+          "description": "git的vim 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-07-21T11:08:11Z",
+            "owner": "airblade",
+            "repo": "vim-gitgutter",
+            "stars": 8516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octo-linker",
+          "description": "这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-10-02T12:33:45Z",
+            "owner": "OctoLinker",
+            "repo": "OctoLinker",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoLinker",
+          "description": "浏览器插件，作用主要是可以跳转到导入的库代码中",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-10-02T12:33:45Z",
+            "owner": "OctoLinker",
+            "repo": "OctoLinker",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alfred-github-workflow",
+          "description": "Alfred 2上使用GitHub命令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-10T20:19:11Z",
+            "owner": "gharlan",
+            "repo": "alfred-github-workflow",
+            "stars": 2920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sublime-text-git",
+          "description": "sublime的git插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T13:50:27Z",
+            "owner": "kemayo",
+            "repo": "sublime-text-git",
+            "stars": 2816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio",
+          "description": "有关GitHub的Visual Studio插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-06-18T15:48:01Z",
+            "owner": "github",
+            "repo": "VisualStudio",
+            "stars": 2508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-draw",
+          "description": "谷歌 Chrome 扩展，给GitHub提交历史画个画",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-06-15T16:52:39Z",
+            "owner": "ben174",
+            "repo": "git-draw",
+            "stars": 2167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notifier-for-github-chrome",
+          "description": "一个浏览器扩展，它能显示 Github 通知的未读数量",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-25T12:34:28Z",
+            "owner": "sindresorhus",
+            "repo": "notifier-for-github",
+            "stars": 1984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-hovercard",
+          "description": "GitHub Hovercard 是一个浏览器扩展，实现了展示用户在 Github 上信息的信息卡功能，支持 Firefox 和 Chrome 浏览器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T05:07:59Z",
+            "owner": "Justineo",
+            "repo": "github-hovercard",
+            "stars": 1897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-gmail",
+          "description": "在Gmail内快速打开GitHub的通知",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-28T19:02:03Z",
+            "owner": "muan",
+            "repo": "github-gmail",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-time-machine",
+          "description": "atom插件查看提交历史",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2021-08-01T02:38:19Z",
+            "owner": "littlebee",
+            "repo": "git-time-machine",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-awesome-autocomplete",
+          "description": "谷歌Chrome和Safari以及Firefox扩展，在GitHub的搜索栏加入自动补全功能",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T14:46:18Z",
+            "owner": "algolia",
+            "repo": "github-awesome-autocomplete",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octohint",
+          "description": "可以帮助阅读代码时候，搜索定位同个变量出现的位置",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-07T18:47:45Z",
+            "owner": "pd4d10",
+            "repo": "octohint",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitDiff",
+          "description": "Xcode插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-03-18T06:29:57Z",
+            "owner": "johnno1962",
+            "repo": "GitDiff",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-plugin",
+          "description": "jenkins的git插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T13:16:03Z",
+            "owner": "jenkinsci",
+            "repo": "git-plugin",
+            "stars": 691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lovely-forks",
+          "description": "谷歌Chrome扩展，显示fork你仓库中star最多的",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T14:18:58Z",
+            "owner": "musically-ut",
+            "repo": "lovely-forks",
+            "stars": 669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GifHub",
+          "description": "谷歌Chrome扩展，GifHub一个往GitHub评论里边插入Gif动画的Chrome插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-02-03T19:55:16Z",
+            "owner": "DrewML",
+            "repo": "GifHub",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-canned-responses",
+          "description": "谷歌Chrome扩展，评论pr或者issue的时候有一些可选项",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-05T20:36:14Z",
+            "owner": "notwaldorf",
+            "repo": "github-canned-responses",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-github-mate",
+          "description": "谷歌Chrome扩展，下载单个文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-14T17:45:15Z",
+            "owner": "camsong",
+            "repo": "chrome-github-mate",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hide-files-on-github",
+          "description": "谷歌Chrome和Opera扩展，隐藏点文件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T02:02:34Z",
+            "owner": "sindresorhus",
+            "repo": "hide-files-on-github",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tab-size-on-github",
+          "description": "谷歌Chrome和Opera扩展，让代码缩进为4个空格而不是8个",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2021-09-24T14:39:41Z",
+            "owner": "sindresorhus",
+            "repo": "tab-size-on-github",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery-github",
+          "description": "jquery的插件显示github仓库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-10T19:13:30Z",
+            "owner": "zenorocha",
+            "repo": "jquery-github",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "star-history-plugin",
+          "description": "查看仓库star历史的插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-10-21T19:17:40Z",
+            "owner": "timqian",
+            "repo": "star-history-plugin",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reveal-In-GitHub",
+          "description": "有关GitHub的Xcode插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-05-04T12:23:49Z",
+            "owner": "lzwjava",
+            "repo": "Reveal-In-GitHub",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShowInGitHub",
+          "description": "Xcode插件，打开选中行的GitHub提交页面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2019-07-02T07:11:49Z",
+            "owner": "larsxschneider",
+            "repo": "ShowInGitHub",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrome-github-avatars",
+          "description": "谷歌Chrome扩展，可以让你的GitHub主页显示用户的头像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-18T16:16:38Z",
+            "owner": "anasnakawa",
+            "repo": "chrome-github-avatars",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-for-github",
+          "description": "在github上显示用户twitter的chrome插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-17T08:49:53Z",
+            "owner": "bevacqua",
+            "repo": "twitter-for-github",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-highlight-selected",
+          "description": "谷歌Chrome和Safari扩展，代码高亮，看起来像sublime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-08T13:53:27Z",
+            "owner": "Nuclides",
+            "repo": "github-highlight-selected",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHubinator",
+          "description": "sublime插件，显示选中文本上的远程GitHub仓库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T23:07:59Z",
+            "owner": "ehamiter",
+            "repo": "GitHubinator",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-oauth-plugin",
+          "description": "jenkins的github oauth登录插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T10:52:07Z",
+            "owner": "jenkinsci",
+            "repo": "github-oauth-plugin",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-integration-plugin",
+          "description": "Jenkins的GitHub集成插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T06:15:23Z",
+            "owner": "KostyaSha",
+            "repo": "github-integration-plugin",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "open-on-github",
+          "description": "atom插件，打开文件在github.com",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-28T10:52:02Z",
+            "owner": "atom",
+            "repo": "open-on-github",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-sublime-theme",
+          "description": "GitHub Sublime 主题",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-19T16:33:51Z",
+            "owner": "AlexanderEkdahl",
+            "repo": "github-sublime-theme",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-ast-viewer",
+          "description": "谷歌Chrome扩展，增加代码的抽象语法树",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-03-06T21:49:37Z",
+            "owner": "lukehorvat",
+            "repo": "github-ast-viewer",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hudson-GIT-plugin",
+          "description": "Hudson上的GIT插件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-08-05T16:54:58Z",
+            "owner": "magnayn",
+            "repo": "Hudson-GIT-plugin",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-menu-back",
+          "description": "一款修改 GitHub 导航栏为之前状态的 Chrome 插件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-06-12T13:03:52Z",
+            "owner": "summerblue",
+            "repo": "github-menu-back",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octo-preview",
+          "description": "谷歌Chrome扩展，预览你评论的markdown内容",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-05T19:25:24Z",
+            "owner": "DrewML",
+            "repo": "octo-preview",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pages2Repo",
+          "description": "谷歌Chrome扩展，通过GitHub Pages网站就能访问仓库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-06-23T21:14:35Z",
+            "owner": "Frozenfire92",
+            "repo": "Pages2Repo",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-pr-filter",
+          "description": "谷歌Chrome扩展，在pr中过滤文件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-03-25T10:06:22Z",
+            "owner": "danielhusar",
+            "repo": "github-pr-filter",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "categoric",
+          "description": "谷歌Chrome扩展，为你的通知分类",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-02T10:13:43Z",
+            "owner": "ozlerhakan",
+            "repo": "categoric",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitpress",
+          "description": "github的wordpress插件，用于列出用户的仓库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2009-02-04T20:52:38Z",
+            "owner": "enricob",
+            "repo": "gitpress",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "插件"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gitflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-10-14T09:12:50Z",
+            "owner": "nvie",
+            "repo": "gitflow",
+            "stars": 26809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": "github官方出品的命令行工具，让你更好地使用github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-02T21:00:44Z",
+            "owner": "mislav",
+            "repo": "hub",
+            "stars": 22955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-blame-someone-else",
+          "description": "吐槽别人的烂代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-04T14:41:06Z",
+            "owner": "jayphelps",
+            "repo": "git-blame-someone-else",
+            "stars": 11696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitsome",
+          "description": "supercharged Github Client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T10:27:14Z",
+            "owner": "donnemartin",
+            "repo": "gitsome",
+            "stars": 7681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitsome",
+          "description": "Git/GitHub命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-08T10:27:14Z",
+            "owner": "donnemartin",
+            "repo": "gitsome",
+            "stars": 7681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "legit",
+          "description": "灵感来自于github for mac的git 命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-09T19:32:28Z",
+            "owner": "frostming",
+            "repo": "legit",
+            "stars": 5686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-fire",
+          "description": "紧急情况下保存代码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-02T04:42:43Z",
+            "owner": "qw3rtman",
+            "repo": "git-fire",
+            "stars": 4546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-town",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Gherkin",
+            "last_commit": "2026-07-26T19:22:59Z",
+            "owner": "git-town",
+            "repo": "git-town",
+            "stars": 3361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-sweep",
+          "description": "git命令行工具，帮助你清理已经merge到master的分支",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-01T23:47:22Z",
+            "owner": "arc90",
+            "repo": "git-sweep",
+            "stars": 2703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-gh",
+          "description": "Node GH 是基于 Node.js 编写的 Github 命令行工具。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-06-04T17:53:51Z",
+            "owner": "node-gh",
+            "repo": "gh",
+            "stars": 1706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-subtree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-07-20T09:27:11Z",
+            "owner": "apenwarr",
+            "repo": "git-subtree",
+            "stars": 1384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-scribe",
+          "description": "写电子书的命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "XSLT",
+            "last_commit": "2023-10-12T12:32:54Z",
+            "owner": "schacon",
+            "repo": "git-scribe",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-gem",
+          "description": "github命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-04-01T14:31:19Z",
+            "owner": "defunkt",
+            "repo": "github-gem",
+            "stars": 1133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-email",
+          "description": "获取用户的邮箱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-08-31T16:14:38Z",
+            "owner": "paulirish",
+            "repo": "github-email",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-sh",
+          "description": "适合git的bash工作环境",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-05-31T16:23:52Z",
+            "owner": "rtomayko",
+            "repo": "git-sh",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gh",
+          "description": "gh 是一个用 Go 语言开发的 Github 命令行客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-07T19:07:38Z",
+            "owner": "owenthereal",
+            "repo": "gh",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-smart",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-09T02:37:02Z",
+            "owner": "geelen",
+            "repo": "git-smart",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-pulls",
+          "description": "github pull requests的命令后行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-10-11T07:08:30Z",
+            "owner": "schacon",
+            "repo": "git-pulls",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ghterm",
+          "description": "github终端",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2015-02-15T19:17:34Z",
+            "owner": "github",
+            "repo": "ghterm",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-discover-cli",
+          "description": "帮助你发现 GitHub 上热门开源仓库和话题的命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T15:01:57Z",
+            "owner": "coderyi",
+            "repo": "github-discover-cli",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maintainer",
+          "description": "让你的 GitHub repo 对开发者更加友好的命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-03T08:11:08Z",
+            "owner": "gaocegege",
+            "repo": "maintainer",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "命令行"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git",
+          "description": "git源码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:40:51Z",
+            "owner": "git",
+            "repo": "git",
+            "stars": 62534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitea",
+          "description": "Gitea的首要目标是创建一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:36:55Z",
+            "owner": "go-gitea",
+            "repo": "gitea",
+            "stars": 57350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gogs",
+          "description": "Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由无闻编写并开源在GitHub。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T12:32:28Z",
+            "owner": "gogs",
+            "repo": "gogs",
+            "stars": 47735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlab",
+          "description": "GitLab 是一个用于仓库管理系统的开源项目，地址在gitlabhq",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:16:14Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitUp",
+          "description": "Objective-C编写的Mac上的Git客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-07-27T00:05:17Z",
+            "owner": "git-up",
+            "repo": "GitUp",
+            "stars": 12096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitbucket",
+          "description": "Scala编写的开源Git平台，扩展性好，兼容GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T21:27:41Z",
+            "owner": "gitbucket",
+            "repo": "gitbucket",
+            "stars": 9387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svn2git",
+          "description": "ruby 实现的迁移svn工程到git",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-12T12:29:50Z",
+            "owner": "nirvdrum",
+            "repo": "svn2git",
+            "stars": 2136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitx",
+          "description": "Mac平台上的Git GUI客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2022-07-25T12:06:37Z",
+            "owner": "pieter",
+            "repo": "gitx",
+            "stars": 1772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gity",
+          "description": "mac的git客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2013-07-01T14:19:46Z",
+            "owner": "beheadedmyway",
+            "repo": "gity",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stupidgit",
+          "description": "python编写的git的跨平台GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-01-05T16:15:19Z",
+            "owner": "gyim",
+            "repo": "stupidgit",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Git平台与工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "resume.github.com",
+          "description": "根据用户的github信息生成简历",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-15T06:38:51Z",
+            "owner": "resume",
+            "repo": "resume.github.com",
+            "stars": 62887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnGitBranching",
+          "description": "学习git的可视化工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T14:26:49Z",
+            "owner": "pcottle",
+            "repo": "learnGitBranching",
+            "stars": 33867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub-Dark",
+          "description": "黑色的GitHub网站风格",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-12T20:37:17Z",
+            "owner": "StylishThemes",
+            "repo": "GitHub-Dark",
+            "stars": 9933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-crypt",
+          "description": "git加密",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-24T14:22:08Z",
+            "owner": "AGWA",
+            "repo": "git-crypt",
+            "stars": 9847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitfiti",
+          "description": "滥用github提交历史",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-28T04:54:08Z",
+            "owner": "gelstudios",
+            "repo": "gitfiti",
+            "stars": 8443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitalk",
+          "description": "Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-05T17:07:24Z",
+            "owner": "gitalk",
+            "repo": "gitalk",
+            "stars": 7171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "githug",
+          "description": "通过游戏的方式来练习Git的命令行工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-11T18:24:57Z",
+            "owner": "Gazler",
+            "repo": "githug",
+            "stars": 6953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-corners",
+          "description": "显示 \"Fork me on GitHub\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-01-01T19:05:18Z",
+            "owner": "tholman",
+            "repo": "github-corners",
+            "stars": 4995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-git",
+          "description": "通过go来从git服务器读取仓库",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-04-10T11:14:17Z",
+            "owner": "src-d",
+            "repo": "go-git",
+            "stars": 4878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lolcommits",
+          "description": "每次提交Git都自拍一张",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T19:45:26Z",
+            "owner": "lolcommits",
+            "repo": "lolcommits",
+            "stars": 4816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Archive",
+          "description": "GitHub Archive 是一个记录GitHub时间线的项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-05-25T05:42:50Z",
+            "owner": "igrigorik",
+            "repo": "gharchive.org",
+            "stars": 3066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-cards",
+          "description": "GitHub Cards 用来展示你的简介",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-10T11:29:05Z",
+            "owner": "lepture",
+            "repo": "github-cards",
+            "stars": 2146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSIL",
+          "description": "实时（15分钟内）的发现Github上泄露的信息",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-28T09:50:29Z",
+            "owner": "FeeiCN",
+            "repo": "GSIL",
+            "stars": 2144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-awards",
+          "description": "发现你GitHub的排名",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-03T14:13:59Z",
+            "owner": "vdaubry",
+            "repo": "github-awards",
+            "stars": 1578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greenhat",
+          "description": "一个让GitHub全绿的“旁门左道”的东西。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-30T14:20:59Z",
+            "owner": "angusshire",
+            "repo": "greenhat",
+            "stars": 1551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-contributions",
+          "description": "可以让你的 github 提交日历排出有趣的图案",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-02-13T19:47:27Z",
+            "owner": "IonicaBizau",
+            "repo": "github-contributions",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "githut",
+          "description": "可视化了GitHub Archive的数据，网站链接，http://githut.info/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-02-02T05:15:53Z",
+            "owner": "littleark",
+            "repo": "githut",
+            "stars": 1289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "badges",
+          "description": "收集GitHub上readme页显示的与javascript有关的各种徽章",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2019-04-05T16:27:49Z",
+            "owner": "boennemann",
+            "repo": "badges",
+            "stars": 1205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-selfies",
+          "description": "Github Selfies 可以在你 Github 的需求和贡献上加上你的自拍照。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-11T14:39:13Z",
+            "owner": "thieman",
+            "repo": "github-selfies",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css3-github-buttons",
+          "description": "帮助你创建github风格的 button",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-03-07T16:34:39Z",
+            "owner": "necolas",
+            "repo": "css3-github-buttons",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro-github",
+          "description": "简单地实现GitHub授权",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-11T08:25:27Z",
+            "owner": "mxstbr",
+            "repo": "micro-github",
+            "stars": 721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub-jQuery-Repo-Widget",
+          "description": "一个GitHub风格的挂件，方便在页面中展示GitHub项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-01-16T21:53:20Z",
+            "owner": "JoelSutherland",
+            "repo": "GitHub-jQuery-Repo-Widget",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": "Github 仓库及用户分析爬虫",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-07T13:23:40Z",
+            "owner": "chenjiandongx",
+            "repo": "Github-spider",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-changelog-lib",
+          "description": "解析和生成changelog，releasenotes的库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-10-06T19:37:49Z",
+            "owner": "tomasbjerre",
+            "repo": "git-changelog-lib",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github-profile-name-writer",
+          "description": "把github提交历史变成你的名字",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-06-13T15:10:01Z",
+            "owner": "ironmaniiith",
+            "repo": "Github-profile-name-writer",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-github-down",
+          "description": "检查github有没有down机",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-17T07:08:08Z",
+            "owner": "sindresorhus",
+            "repo": "is-github-down",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ohmyrepo",
+          "description": "一个 GitHub 仓库分析工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-13T08:39:48Z",
+            "owner": "no13bus",
+            "repo": "ohmyrepo",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-gists",
+          "description": "拿到一个GitHub用户的所有gist",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-12T16:10:52Z",
+            "owner": "kevva",
+            "repo": "github-gists",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monkeyweb",
+          "description": "GitHub仓库和用户排名的web项目",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-04T14:38:02Z",
+            "owner": "coderyi",
+            "repo": "monkeyweb",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get-Your-GitHub-Card",
+          "description": "基于jquery拿到你的GitHub用户资料",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-09-05T11:23:33Z",
+            "owner": "rehack",
+            "repo": "Get-Your-GitHub-Card",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitViz",
+          "description": "帮助你训练git时的可视化工具",
+          "children": []
+        }
+      ],
+      "title": "项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-github",
+          "description": "Go实现的GitHub API库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T02:23:50Z",
+            "owner": "google",
+            "repo": "go-github",
+            "stars": 11281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libgit2",
+          "description": "Git核心库，通过它可以写一个自己的git应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T20:18:12Z",
+            "owner": "libgit2",
+            "repo": "libgit2",
+            "stars": 10558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGithub",
+          "description": "Python的GitHub API封装库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:35:51Z",
+            "owner": "PyGithub",
+            "repo": "PyGithub",
+            "stars": 7760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyGithub",
+          "description": "GitHub API v3的python接口",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:35:51Z",
+            "owner": "PyGithub",
+            "repo": "PyGithub",
+            "stars": 7760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github - Haskell",
+          "description": "GitHub API 的Haskell接口",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:35:51Z",
+            "owner": "PyGithub",
+            "repo": "PyGithub",
+            "stars": 7760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodegit",
+          "description": "git的node实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-16T18:47:08Z",
+            "owner": "nodegit",
+            "repo": "nodegit",
+            "stars": 5755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github - michael",
+          "description": "JavaScript写的GitHub API的封装库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-04T15:10:53Z",
+            "owner": "github-tools",
+            "repo": "github",
+            "stars": 3744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libgit2sharp",
+          "description": ".Net实现的git",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T09:05:29Z",
+            "owner": "libgit2",
+            "repo": "libgit2sharp",
+            "stars": 3448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-github-api",
+          "description": "php的github api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-03-16T02:52:56Z",
+            "owner": "KnpLabs",
+            "repo": "php-github-api",
+            "stars": 2203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-gitlab",
+          "description": "gitlab的node api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:46:25Z",
+            "owner": "jdalrymple",
+            "repo": "gitbeaker",
+            "stars": 1730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pygit2",
+          "description": "libgit2的python版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:17:32Z",
+            "owner": "libgit2",
+            "repo": "pygit2",
+            "stars": 1726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git.js",
+          "description": "git的js实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-28T02:04:50Z",
+            "owner": "danlucraft",
+            "repo": "git.js",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github3.py",
+          "description": "GitHub API v3的python接口",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:18:42Z",
+            "owner": "sigmavirus24",
+            "repo": "github3.py",
+            "stars": 1256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-github",
+          "description": "Ruby实现的GitHub API库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-05-13T06:05:32Z",
+            "owner": "piotrmurach",
+            "repo": "github",
+            "stars": 1194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftGit2",
+          "description": "Swift编写的git实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-11-24T22:19:48Z",
+            "owner": "SwiftGit2",
+            "repo": "SwiftGit2",
+            "stars": 704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitSharp",
+          "description": ".Net实现的git",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-11-02T17:56:20Z",
+            "owner": "henon",
+            "repo": "GitSharp",
+            "stars": 665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitkit-js",
+          "description": "gitkit-js，SamyPesse开源的git的javascript实现，包含一系列API,可以管理git仓库，包括读文件，commit， clone，push，fetch等，可以工作在浏览器和node.js上",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-01-26T10:35:37Z",
+            "owner": "SamyPesse",
+            "repo": "gitkit-js",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gift",
+          "description": "通过Swift绑定libgit2，通过它你可以clone一个仓库，查看commit，提交等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-13T18:41:43Z",
+            "owner": "modocache",
+            "repo": "Gift",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gift",
+          "description": "Swift编写的git实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-09-13T18:41:43Z",
+            "owner": "modocache",
+            "repo": "Gift",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAGithubEngine",
+          "description": "Objective-C的GitHub API封装库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2015-09-16T08:13:15Z",
+            "owner": "owainhunt",
+            "repo": "UAGithubEngine",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git.framework",
+          "description": "mac os x 平台的objective-c的git实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2011-10-28T16:11:46Z",
+            "owner": "geoffgarside",
+            "repo": "Git.framework",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "objective-git",
+          "description": "Git的Objective-C实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2008-10-01T01:38:01Z",
+            "owner": "schacon",
+            "repo": "objective-git",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocoagit",
+          "description": "git的objetive-c实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-09-30T19:31:32Z",
+            "owner": "geoffgarside",
+            "repo": "cocoagit",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "erlangit",
+          "description": "erlang 的git实现",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2023-10-11T08:10:03Z",
+            "owner": "schacon",
+            "repo": "erlangit",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RxGitHubAPI",
+          "description": "基于RxSwift的GitHub API封装库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-04-18T05:26:03Z",
+            "owner": "FengDeng",
+            "repo": "RxGitHubAPI",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ruby-github",
+          "description": "mbleigh写的ruby的github api",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2011-07-25T04:21:47Z",
+            "owner": "mbleigh",
+            "repo": "ruby-github",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitYourFeedback",
+          "description": "让你可以直接在iOS App内feedback时向GitHub提交issue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-10-19T07:35:32Z",
+            "owner": "gabek",
+            "repo": "GitYourFeedback",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GithubPilot",
+          "description": "Swift的GitHub API 封装",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-10-08T21:15:50Z",
+            "owner": "jindulys",
+            "repo": "GithubPilot",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "monkey-github-api",
+          "description": "TypeScript编写的GitHub API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-12-05T06:09:28Z",
+            "owner": "coderyi",
+            "repo": "monkey-github-api",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "github-cheat-sheet",
+          "description": "一些酷酷的Git和GitHub功能收集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-15T20:15:56Z",
+            "owner": "tiimgreen",
+            "repo": "github-cheat-sheet",
+            "stars": 58476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-browser-extensions-for-github",
+          "description": "GitHub浏览器扩展收集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-18T20:11:31Z",
+            "owner": "stefanbuck",
+            "repo": "awesome-browser-extensions-for-github",
+            "stars": 3285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-github-templates",
+          "description": "github issue 和 pull request的模版列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-03T07:04:21Z",
+            "owner": "devspace",
+            "repo": "awesome-github-templates",
+            "stars": 2312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-github",
+          "description": "phillipadsmith的awesome-github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-04T15:57:12Z",
+            "owner": "phillipadsmith",
+            "repo": "awesome-github",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-13T21:55:24Z",
+            "owner": "Kikobeats",
+            "repo": "awesome-github",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-jekyll",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-11T08:27:30Z",
+            "owner": "planetjekyll",
+            "repo": "awesome-jekyll",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Make timeline in rightside longer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-06-24T20:26:57Z",
+            "owner": "sulfureux",
+            "repo": "make-color-for-profile-rightside",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "其他的awesome"
+    },
+    {
+      "description": "贡献指引请看 CONTRIBUTING.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "文章版权采用CC Attribution-NonCommercial 中文：署名-非商业性使用协议.\nawesome-github 是coderyi创建的，现在由他和AntBranch组织维护,也欢迎每一个人加入进来.\n谢谢所有的贡献者.\ncopyright (c) 2016 coderyi.all rights reserved.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:03.957Z",
+    "original_repository": "AntBranch/awesome-github",
+    "original_repository_sha": "9de64fbe705125000ef253bf2a3d68bc14158843",
+    "enhanced_repository": "enhansome/enhansome-github",
+    "enhanced_repository_description": null,
+    "title": "awesome-github with stars"
+  }
+}
