@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175377
+                "stars": 175392
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58638
+                "stars": 58656
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2024-07-10T18:45:27Z",
                 "owner": "mattvh",
                 "repo": "jekyllthemes",
-                "stars": 2335
+                "stars": 2336
               }
             }
           ],
@@ -401,7 +401,7 @@
                 "last_commit": "2026-08-12T18:42:36Z",
                 "owner": "hexojs",
                 "repo": "hexo",
-                "stars": 41772
+                "stars": 41771
               }
             },
             {
@@ -416,7 +416,7 @@
                 "last_commit": "2026-08-19T21:39:44Z",
                 "owner": "primer",
                 "repo": "css",
-                "stars": 13008
+                "stars": 13010
               }
             },
             {
@@ -431,7 +431,7 @@
                 "last_commit": "2026-08-11T19:19:40Z",
                 "owner": "primer",
                 "repo": "octicons",
-                "stars": 8741
+                "stars": 8742
               }
             },
             {
@@ -461,7 +461,7 @@
                 "last_commit": "2020-05-06T22:37:29Z",
                 "owner": "jbt",
                 "repo": "markdown-editor",
-                "stars": 2874
+                "stars": 2875
               }
             },
             {
@@ -476,7 +476,7 @@
                 "last_commit": "2020-03-12T15:25:27Z",
                 "owner": "github-education-resources",
                 "repo": "classroom",
-                "stars": 1379
+                "stars": 1378
               }
             },
             {
@@ -625,7 +625,7 @@
                 "last_commit": "2022-06-22T16:14:05Z",
                 "owner": "CodeHubApp",
                 "repo": "CodeHub",
-                "stars": 22574
+                "stars": 22572
               }
             },
             {
@@ -887,7 +887,7 @@
                 "last_commit": "2026-08-19T11:14:12Z",
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 31962
+                "stars": 31966
               }
             },
             {
@@ -917,7 +917,7 @@
                 "last_commit": "2026-07-21T11:08:11Z",
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8513
+                "stars": 8512
               }
             },
             {
@@ -992,7 +992,7 @@
                 "last_commit": "2023-06-18T15:48:01Z",
                 "owner": "github",
                 "repo": "VisualStudio",
-                "stars": 2508
+                "stars": 2509
               }
             },
             {
@@ -1539,7 +1539,7 @@
                 "last_commit": "2025-10-14T09:12:50Z",
                 "owner": "nvie",
                 "repo": "gitflow",
-                "stars": 26797
+                "stars": 26796
               }
             },
             {
@@ -1584,7 +1584,7 @@
                 "last_commit": "2024-02-08T10:27:14Z",
                 "owner": "donnemartin",
                 "repo": "gitsome",
-                "stars": 7686
+                "stars": 7687
               }
             },
             {
@@ -1599,7 +1599,7 @@
                 "last_commit": "2024-02-08T10:27:14Z",
                 "owner": "donnemartin",
                 "repo": "gitsome",
-                "stars": 7686
+                "stars": 7687
               }
             },
             {
@@ -1644,7 +1644,7 @@
                 "last_commit": "2026-07-26T19:22:59Z",
                 "owner": "git-town",
                 "repo": "git-town",
-                "stars": 3364
+                "stars": 3365
               }
             },
             {
@@ -1861,7 +1861,7 @@
                 "last_commit": "2026-08-20T22:20:31Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62688
+                "stars": 62718
               }
             },
             {
@@ -1873,10 +1873,10 @@
                 "archived": false,
                 "id": 72495579,
                 "language": "Go",
-                "last_commit": "2026-08-20T23:06:45Z",
+                "last_commit": "2026-08-22T01:30:42Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57523
+                "stars": 57537
               }
             },
             {
@@ -1888,10 +1888,10 @@
                 "archived": false,
                 "id": 16752620,
                 "language": "Go",
-                "last_commit": "2026-08-06T12:32:28Z",
+                "last_commit": "2026-08-21T12:40:15Z",
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47748
+                "stars": 47750
               }
             },
             {
@@ -1903,10 +1903,10 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T00:46:49Z",
+                "last_commit": "2026-08-22T00:09:15Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24533
+                "stars": 24537
               }
             },
             {
@@ -1921,7 +1921,7 @@
                 "last_commit": "2026-07-27T00:05:17Z",
                 "owner": "git-up",
                 "repo": "GitUp",
-                "stars": 12104
+                "stars": 12105
               }
             },
             {
@@ -1933,7 +1933,7 @@
                 "archived": false,
                 "id": 9350746,
                 "language": "Scala",
-                "last_commit": "2026-08-20T17:30:52Z",
+                "last_commit": "2026-08-21T17:30:49Z",
                 "owner": "gitbucket",
                 "repo": "gitbucket",
                 "stars": 9391
@@ -2024,7 +2024,7 @@
                 "last_commit": "2023-02-15T06:38:51Z",
                 "owner": "resume",
                 "repo": "resume.github.com",
-                "stars": 62884
+                "stars": 62886
               }
             },
             {
@@ -2036,10 +2036,10 @@
                 "archived": false,
                 "id": 5405654,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T15:17:10Z",
+                "last_commit": "2026-08-21T16:24:05Z",
                 "owner": "pcottle",
                 "repo": "learnGitBranching",
-                "stars": 33911
+                "stars": 33919
               }
             },
             {
@@ -2051,10 +2051,10 @@
                 "archived": false,
                 "id": 1219740,
                 "language": "CSS",
-                "last_commit": "2026-08-20T00:55:09Z",
+                "last_commit": "2026-08-21T20:19:20Z",
                 "owner": "StylishThemes",
                 "repo": "GitHub-Dark",
-                "stars": 9963
+                "stars": 9966
               }
             },
             {
@@ -2069,7 +2069,7 @@
                 "last_commit": "2025-09-24T14:22:08Z",
                 "owner": "AGWA",
                 "repo": "git-crypt",
-                "stars": 9857
+                "stars": 9858
               }
             },
             {
@@ -2084,7 +2084,7 @@
                 "last_commit": "2024-10-28T04:54:08Z",
                 "owner": "gelstudios",
                 "repo": "gitfiti",
-                "stars": 8441
+                "stars": 8442
               }
             },
             {
@@ -2144,7 +2144,7 @@
                 "last_commit": "2022-04-10T11:14:17Z",
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4874
+                "stars": 4873
               }
             },
             {
@@ -2174,7 +2174,7 @@
                 "last_commit": "2025-05-25T05:42:50Z",
                 "owner": "igrigorik",
                 "repo": "gharchive.org",
-                "stars": 3070
+                "stars": 3071
               }
             },
             {
@@ -2478,7 +2478,7 @@
                 "archived": false,
                 "id": 10270722,
                 "language": "Go",
-                "last_commit": "2026-08-21T00:19:40Z",
+                "last_commit": "2026-08-21T19:25:45Z",
                 "owner": "google",
                 "repo": "go-github",
                 "stars": 11278
@@ -2496,7 +2496,7 @@
                 "last_commit": "2026-08-15T12:37:11Z",
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10566
+                "stars": 10567
               }
             },
             {
@@ -2601,7 +2601,7 @@
                 "last_commit": "2026-08-18T07:59:10Z",
                 "owner": "KnpLabs",
                 "repo": "php-github-api",
-                "stars": 2205
+                "stars": 2206
               }
             },
             {
@@ -2927,7 +2927,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58638
+            "stars": 58656
           }
         },
         {
@@ -2942,7 +2942,7 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3289
+            "stars": 3288
           }
         },
         {
@@ -3025,7 +3025,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:45:50.804Z",
+    "last_updated": "2026-08-22T01:38:46.145Z",
     "original_repository": "AntBranch/awesome-github",
     "original_repository_id": 52947672,
     "original_repository_sha": "9de64fbe705125000ef253bf2a3d68bc14158843",
