@@ -35,10 +35,10 @@
 
 #### 通用教程
 
-* [gitignore](https://github.com/github/gitignore) ⭐ 175,392 | 🐛 81 | 📅 2026-07-23 - GitHub官方的.gitignore模板集合
-* [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 58,656 | 🐛 48 | 📅 2024-04-15 - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
-* [GitHub 漫游指南](https://github.com/phodal/github-roam) ⭐ 11,145 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24 - phodal的GitHub故事与教程
-* [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) ⭐ 7,400 | 🐛 7 | 🌐 HTML | 📅 2026-08-20 - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
+* [gitignore](https://github.com/github/gitignore) ⭐ 175,413 | 🐛 81 | 📅 2026-07-23 - GitHub官方的.gitignore模板集合
+* [GitHub 秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md) ⭐ 58,670 | 🐛 48 | 📅 2024-04-15 - 本书为 Github 中级教程，适用在 Github 上做开源项目、制作自己的博客和协同做项目的开发者。
+* [GitHub 漫游指南](https://github.com/phodal/github-roam) ⭐ 11,148 | 🐛 0 | 🌐 Rich Text Format | 📅 2024-08-24 - phodal的GitHub故事与教程
+* [Github全程指南-如何高效使用？](https://github.com/xirong/my-git/blob/master/how-to-use-github.md) ⭐ 7,399 | 🐛 6 | 🌐 HTML | 📅 2026-08-22 - 作为一名开发者，Github上面有很多东西值得关注学习，可是刚刚接触github，怎样一步步学习使用Github？怎样更高效的利用Github？
 * [Github MarkDown语法指南](https://github.com/guodongxiaren/README) ⭐ 7,055 | 🐛 54 | 📅 2025-11-24 - 使用Github必备
 * [learn-with-open-source](https://github.com/zhuangbiaowei/learn-with-open-source) ⭐ 1,759 | 🐛 8 | 🌐 Shell | 📅 2022-05-16 - 开放文档：《借助开源项目，学习软件开发》
 * [《Github 帮助文档》 中文翻译](https://github.com/waylau/github-help) ⭐ 841 | 🐛 0 | 📅 2022-03-03 - 包含了官方文档以及其他文章
@@ -60,8 +60,8 @@
 
 * [git-tips](https://github.com/git-tips/tips) ⭐ 21,721 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-10 - 最常用的Git的提示和技巧。
 * [git-recipes](https://github.com/geeeeeeeeek/git-recipes) ⚠️ Archived -高质量的Git中文教程，来自国外社区的优秀文章和个人实践
-* [git-style-guide](https://github.com/agis-/git-style-guide) ⭐ 5,116 | 🐛 0 | 📅 2022-09-26- git风格指南
-* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) ⭐ 4,470 | 🐛 4 | 📅 2025-11-15
+* [git-style-guide](https://github.com/agis-/git-style-guide) ⭐ 5,115 | 🐛 0 | 📅 2022-09-26- git风格指南
+* [30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/zh-tw/README.md) ⭐ 4,471 | 🐛 4 | 📅 2025-11-15
 * [progit2-zh](https://github.com/progit/progit2-zh) ⭐ 1,575 | 🐛 6 | 🌐 CSS | 📅 2026-06-03 - Pro Git，第二版，简体中文
 * [learn-git-basics](https://github.com/NataliaLKB/learn-git-basics) ⭐ 67 | 🐛 16 | 📅 2024-07-22 - git 指南
 * [Git 进阶技巧](https://github.com/xhacker/GitProTips/blob/master/zh_CN.md) ⭐ 56 | 🐛 1 | 📅 2017-01-03 - 适合了解 Git 的基本使用，知道 commit、push、pull，希望掌握 Git 更多功能的人阅读。
@@ -113,7 +113,7 @@
 
 ### 文章
 
-* [亲爱的GitHub](https://github.com/dear-github/dear-github) ⭐ 5,162 | 🐛 278 | 📅 2020-11-20 - 致GitHub的一封公开信
+* [亲爱的GitHub](https://github.com/dear-github/dear-github) ⭐ 5,161 | 🐛 278 | 📅 2020-11-20 - 致GitHub的一封公开信
 * [thank-you-github](https://github.com/thank-you-github/thank-you-github) ⭐ 1,992 | 🐛 34 | 📅 2024-05-11 - 一封从GitHub毕业的公开信
 * [git-commit-guide](https://github.com/bluejava/git-commit-guide) ⭐ 81 | 🐛 0 | 📅 2015-08-27 - git commit message 指南
 * [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html) - 本文尝试谈谈GitHub的文化、技巧与影响
@@ -167,9 +167,9 @@
 
 #### 常用工具
 
-* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,771 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 - 通过Github Pages写博客的Node.js框架
-* [primer](https://github.com/primer/primer) ⭐ 13,010 | 🐛 7 | 🌐 SCSS | 📅 2026-08-19 -Primer 是 Github 工具包，用于 Github 前端设计。
-* [octicons](https://github.com/github/octicons) ⭐ 8,742 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 - GitHub的 图标字体
+* [Hexo](https://github.com/hexojs/hexo) ⭐ 41,769 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 - 通过Github Pages写博客的Node.js框架
+* [primer](https://github.com/primer/primer) ⭐ 13,009 | 🐛 7 | 🌐 SCSS | 📅 2026-08-19 -Primer 是 Github 工具包，用于 Github 前端设计。
+* [octicons](https://github.com/github/octicons) ⭐ 8,743 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-11 - GitHub的 图标字体
 * [GitTorrent](https://github.com/cjb/GitTorrent) ⭐ 4,757 | 🐛 48 | 🌐 JavaScript | 📅 2020-07-29
 * [markdown-editor](https://github.com/jbt/markdown-editor) ⭐ 2,875 | 🐛 59 | 🌐 JavaScript | 📅 2020-05-06 - GitHub味道的markdown编辑器
 * [Classroom for GitHub](https://github.com/education/classroom) ⚠️ Archived - Classroom for GitHub 可以自动创建代码仓库和访问控制，可以让老师很方便的在 GitHub 上发布代码任务和收集作业。
@@ -217,13 +217,13 @@
 
 #### 插件
 
-* [refined-github](https://github.com/sindresorhus/refined-github) ⭐ 31,966 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-19 - chrome插件，简化你的github，增加了一些可用的功能
-* [octotree](https://github.com/buunguyen/octotree) ⭐ 23,233 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 -浏览器扩展，树状格式显示GitHub的代码
-* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) ⭐ 8,512 | 🐛 2 | 🌐 Vim Script | 📅 2026-07-21 - git的vim 插件
+* [refined-github](https://github.com/sindresorhus/refined-github) ⭐ 31,972 | 🐛 80 | 🌐 TypeScript | 📅 2026-08-19 - chrome插件，简化你的github，增加了一些可用的功能
+* [octotree](https://github.com/buunguyen/octotree) ⭐ 23,234 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 -浏览器扩展，树状格式显示GitHub的代码
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) ⭐ 8,511 | 🐛 2 | 🌐 Vim Script | 📅 2026-07-21 - git的vim 插件
 * [octo-linker](https://github.com/octo-linker/chrome-extension) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - 这款谷歌 Chrome 扩展允许您轻松地浏览 GitHub.com 上的文件和包。
 * [OctoLinker](https://github.com/OctoLinker/OctoLinker) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - 浏览器插件，作用主要是可以跳转到导入的库代码中
 * [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) ⭐ 2,918 | 🐛 10 | 🌐 PHP | 📅 2026-05-10 - Alfred 2上使用GitHub命令
-* [sublime-text-git](https://github.com/kemayo/sublime-text-git) ⭐ 2,816 | 🐛 208 | 🌐 Python | 📅 2024-06-13 - sublime的git插件
+* [sublime-text-git](https://github.com/kemayo/sublime-text-git) ⭐ 2,815 | 🐛 208 | 🌐 Python | 📅 2024-06-13 - sublime的git插件
 * [Visual Studio](https://github.com/github/VisualStudio) ⚠️ Archived - 有关GitHub的Visual Studio插件
 * [git-draw](https://github.com/ben174/git-draw) ⭐ 2,167 | 🐛 9 | 🌐 JavaScript | 📅 2018-06-15 - 谷歌 Chrome 扩展，给GitHub提交历史画个画
 * [notifier-for-github-chrome](https://github.com/sindresorhus/notifier-for-github-chrome) ⭐ 1,983 | 🐛 26 | 🌐 JavaScript | 📅 2025-06-25 - 一个浏览器扩展，它能显示 Github 通知的未读数量
@@ -249,7 +249,7 @@
 * [github-highlight-selected](https://github.com/Nuclides/github-highlight-selected) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-08 - 谷歌Chrome和Safari扩展，代码高亮，看起来像sublime
 * [GitHubinator](https://github.com/ehamiter/GitHubinator) ⭐ 135 | 🐛 3 | 🌐 Python | 📅 2025-01-28 - sublime插件，显示选中文本上的远程GitHub仓库
 * [github-oauth-plugin](https://github.com/jenkinsci/github-oauth-plugin) ⭐ 104 | 🐛 9 | 🌐 Java | 📅 2026-08-01 - jenkins的github oauth登录插件
-* [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) ⭐ 102 | 🐛 82 | 🌐 Java | 📅 2026-08-03 - Jenkins的GitHub集成插件
+* [github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) ⭐ 102 | 🐛 82 | 🌐 Java | 📅 2026-08-22 - Jenkins的GitHub集成插件
 * [open-on-github](https://github.com/atom/open-on-github) ⚠️ Archived - atom插件，打开文件在github.com
 * [github-sublime-theme](https://github.com/AlexanderEkdahl/github-sublime-theme) ⭐ 74 | 🐛 2 | 📅 2025-08-19 - GitHub Sublime 主题
 * [github-ast-viewer](https://github.com/lukehorvat/github-ast-viewer) ⚠️ Archived - 谷歌Chrome扩展，增加代码的抽象语法树
@@ -264,19 +264,19 @@
 #### 命令行
 
 * [gitflow](https://github.com/nvie/gitflow) ⚠️ Archived
-* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - github官方出品的命令行工具，让你更好地使用github
-* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,702 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - 吐槽别人的烂代码
+* [hub](https://github.com/github/hub) ⭐ 22,955 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - github官方出品的命令行工具，让你更好地使用github
+* [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,703 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - 吐槽别人的烂代码
 * [gitsome](https://github.com/donnemartin/gitsome/) ⭐ 7,687 | 🐛 66 | 🌐 Python | 📅 2024-02-08 - supercharged Github Client
 * [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,687 | 🐛 66 | 🌐 Python | 📅 2024-02-08 - Git/GitHub命令行工具
 * [legit](https://github.com/kennethreitz/legit) ⭐ 5,685 | 🐛 7 | 🌐 Python | 📅 2023-10-09 - 灵感来自于github for mac的git 命令行工具
 * [git-fire](https://github.com/qw3rtman/git-fire) ⭐ 4,545 | 🐛 14 | 🌐 Shell | 📅 2022-03-02 - 紧急情况下保存代码
 * [git-town](https://github.com/Originate/git-town) ⭐ 3,365 | 🐛 47 | 🌐 Gherkin | 📅 2026-07-26
-* [git-sweep](https://github.com/arc90/git-sweep) ⭐ 2,705 | 🐛 45 | 🌐 Python | 📅 2023-10-01 - git命令行工具，帮助你清理已经merge到master的分支
+* [git-sweep](https://github.com/arc90/git-sweep) ⭐ 2,706 | 🐛 45 | 🌐 Python | 📅 2023-10-01 - git命令行工具，帮助你清理已经merge到master的分支
 * [node-gh](https://github.com/node-gh/gh) ⚠️ Archived -Node GH 是基于 Node.js 编写的 Github 命令行工具。
 * [git-subtree](https://github.com/apenwarr/git-subtree) ⭐ 1,384 | 🐛 8 | 🌐 Shell | 📅 2017-07-20
 * [git-scribe](https://github.com/schacon/git-scribe) ⭐ 1,351 | 🐛 23 | 🌐 XSLT | 📅 2023-10-12 - 写电子书的命令行工具
 * [github-gem](https://github.com/defunkt/github-gem) ⭐ 1,133 | 🐛 73 | 🌐 Ruby | 📅 2024-04-01 - github命令行工具
-* [github-email](https://github.com/paulirish/github-email) ⭐ 1,010 | 🐛 3 | 🌐 Shell | 📅 2020-08-31 - 获取用户的邮箱
+* [github-email](https://github.com/paulirish/github-email) ⭐ 1,011 | 🐛 3 | 🌐 Shell | 📅 2020-08-31 - 获取用户的邮箱
 * [git-sh](https://github.com/rtomayko/git-sh) ⚠️ Archived - 适合git的bash工作环境
 * [gh](https://github.com/jingweno/gh) ⭐ 717 | 🐛 15 | 🌐 Go | 📅 2022-10-07 -gh 是一个用 Go 语言开发的 Github 命令行客户端。
 * [git-smart](https://github.com/geelen/git-smart) ⭐ 443 | 🐛 24 | 🌐 Ruby | 📅 2026-02-09
@@ -287,13 +287,13 @@
 
 #### Git平台与工具
 
-* [git](https://github.com/git/git) ⭐ 62,718 | 🐛 388 | 🌐 C | 📅 2026-08-20 - git源码
-* [gitea](https://github.com/go-gitea/gitea) ⭐ 57,537 | 🐛 2,543 | 🌐 Go | 📅 2026-08-22 - Gitea的首要目标是创建一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务。
-* [gogs](https://github.com/gogits/gogs) ⭐ 47,750 | 🐛 1,010 | 🌐 Go | 📅 2026-08-21 - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
+* [git](https://github.com/git/git) ⭐ 62,747 | 🐛 388 | 🌐 C | 📅 2026-08-20 - git源码
+* [gitea](https://github.com/go-gitea/gitea) ⭐ 57,546 | 🐛 2,531 | 🌐 Go | 📅 2026-08-23 - Gitea的首要目标是创建一个极易安装，运行非常快速，安装和使用体验良好的自建 Git 服务。
+* [gogs](https://github.com/gogits/gogs) ⭐ 47,757 | 🐛 1,008 | 🌐 Go | 📅 2026-08-22 - Gogs (Go Git Service) 是一款极易搭建的自助 Git 服务，由[无闻](https://github.com/Unknwon)编写并开源在GitHub。
 * [gitlab](https://about.gitlab.com/gitlab-com/) - GitLab 是一个用于仓库管理系统的开源项目，地址在[gitlabhq](https://github.com/gitlabhq/gitlabhq) ⭐ 24,537 | 🐛 37 | 🌐 Ruby | 📅 2026-08-22
-* [GitUp](https://github.com/git-up/GitUp) ⭐ 12,105 | 🐛 364 | 🌐 Objective-C | 📅 2026-07-27 - Objective-C编写的Mac上的Git客户端
-* [gitbucket](https://github.com/gitbucket/gitbucket) ⭐ 9,391 | 🐛 331 | 🌐 Scala | 📅 2026-08-21 - Scala编写的开源Git平台，扩展性好，兼容GitHub
-* [svn2git](https://github.com/nirvdrum/svn2git) ⭐ 2,136 | 🐛 202 | 🌐 Ruby | 📅 2024-08-12 - ruby 实现的迁移svn工程到git
+* [GitUp](https://github.com/git-up/GitUp) ⭐ 12,107 | 🐛 364 | 🌐 Objective-C | 📅 2026-07-27 - Objective-C编写的Mac上的Git客户端
+* [gitbucket](https://github.com/gitbucket/gitbucket) ⭐ 9,392 | 🐛 331 | 🌐 Scala | 📅 2026-08-22 - Scala编写的开源Git平台，扩展性好，兼容GitHub
+* [svn2git](https://github.com/nirvdrum/svn2git) ⭐ 2,137 | 🐛 202 | 🌐 Ruby | 📅 2024-08-12 - ruby 实现的迁移svn工程到git
 * [gitx](https://github.com/pieter/gitx) ⭐ 1,772 | 🐛 8 | 🌐 Objective-C | 📅 2022-07-25 - Mac平台上的Git GUI客户端
 * [gity](https://github.com/beheadedmyway/gity) ⭐ 377 | 🐛 13 | 🌐 Objective-C | 📅 2013-07-01 - mac的git客户端
 * [stupidgit](https://github.com/gyim/stupidgit) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2012-01-05 - python编写的git的跨平台GUI
@@ -304,10 +304,10 @@
 #### 项目
 
 * [resume.github.com](https://github.com/resume/resume.github.com) ⭐ 62,886 | 🐛 76 | 🌐 JavaScript | 📅 2023-02-15 - 根据用户的github信息生成简历
-* [learnGitBranching](https://github.com/pcottle/learnGitBranching) ⭐ 33,919 | 🐛 60 | 🌐 JavaScript | 📅 2026-08-21 - 学习git的可视化工具
-* [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) ⭐ 9,966 | 🐛 54 | 🌐 CSS | 📅 2026-08-21 - 黑色的GitHub网站风格
-* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,858 | 🐛 128 | 🌐 C++ | 📅 2025-09-24 - git加密
-* [gitfiti](https://github.com/gelstudios/gitfiti) ⭐ 8,442 | 🐛 17 | 🌐 Python | 📅 2024-10-28 - 滥用github提交历史
+* [learnGitBranching](https://github.com/pcottle/learnGitBranching) ⭐ 33,927 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-22 - 学习git的可视化工具
+* [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) ⭐ 9,965 | 🐛 54 | 🌐 CSS | 📅 2026-08-21 - 黑色的GitHub网站风格
+* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,861 | 🐛 128 | 🌐 C++ | 📅 2025-09-24 - git加密
+* [gitfiti](https://github.com/gelstudios/gitfiti) ⭐ 8,443 | 🐛 17 | 🌐 Python | 📅 2024-10-28 - 滥用github提交历史
 * [gitalk](https://github.com/gitalk/gitalk) ⭐ 7,171 | 🐛 155 | 🌐 JavaScript | 📅 2026-07-05 - Gitalk 是一个基于 Github Issue 和 Preact 开发的评论插件。
 * [githug](https://github.com/Gazler/githug) ⭐ 6,954 | 🐛 48 | 🌐 Shell | 📅 2024-08-11 - 通过游戏的方式来练习Git的命令行工具
 * [github-corners](https://github.com/tholman/github-corners) ⭐ 4,996 | 🐛 17 | 🌐 HTML | 📅 2025-01-01 - 显示 "Fork me on GitHub"
@@ -338,16 +338,16 @@
 #### 库
 
 * [go-github](https://github.com/google/go-github) ⭐ 11,278 | 🐛 33 | 🌐 Go | 📅 2026-08-21 -Go实现的GitHub API库
-* [libgit2](https://github.com/libgit2/libgit2) ⭐ 10,567 | 🐛 523 | 🌐 C | 📅 2026-08-15 - Git核心库，通过它可以写一个自己的git应用。
-* [PyGithub](https://github.com/PyGithub/PyGithub) ⭐ 7,763 | 🐛 393 | 🌐 Python | 📅 2026-08-20 - Python的GitHub API封装库
-* [PyGithub](https://github.com/PyGithub/PyGithub) ⭐ 7,763 | 🐛 393 | 🌐 Python | 📅 2026-08-20 - GitHub API v3的python接口
-* [github - Haskell](https://github.com/PyGithub/PyGithub) ⭐ 7,763 | 🐛 393 | 🌐 Python | 📅 2026-08-20 - GitHub API 的Haskell接口
-* [nodegit](https://github.com/nodegit/nodegit) ⭐ 5,754 | 🐛 363 | 🌐 JavaScript | 📅 2026-07-16 - git的node实现
-* [github - michael](https://github.com/michael/github) ⭐ 3,748 | 🐛 210 | 🌐 JavaScript | 📅 2022-09-04 - JavaScript写的GitHub API的封装库
-* [libgit2sharp](https://github.com/libgit2/libgit2sharp) ⭐ 3,451 | 🐛 455 | 🌐 C# | 📅 2026-07-23 - .Net实现的git
+* [libgit2](https://github.com/libgit2/libgit2) ⭐ 10,568 | 🐛 523 | 🌐 C | 📅 2026-08-15 - Git核心库，通过它可以写一个自己的git应用。
+* [PyGithub](https://github.com/PyGithub/PyGithub) ⭐ 7,764 | 🐛 394 | 🌐 Python | 📅 2026-08-20 - Python的GitHub API封装库
+* [PyGithub](https://github.com/PyGithub/PyGithub) ⭐ 7,764 | 🐛 394 | 🌐 Python | 📅 2026-08-20 - GitHub API v3的python接口
+* [github - Haskell](https://github.com/PyGithub/PyGithub) ⭐ 7,764 | 🐛 394 | 🌐 Python | 📅 2026-08-20 - GitHub API 的Haskell接口
+* [nodegit](https://github.com/nodegit/nodegit) ⭐ 5,753 | 🐛 363 | 🌐 JavaScript | 📅 2026-07-16 - git的node实现
+* [github - michael](https://github.com/michael/github) ⭐ 3,747 | 🐛 210 | 🌐 JavaScript | 📅 2022-09-04 - JavaScript写的GitHub API的封装库
+* [libgit2sharp](https://github.com/libgit2/libgit2sharp) ⭐ 3,452 | 🐛 455 | 🌐 C# | 📅 2026-07-23 - .Net实现的git
 * [php-github-api](https://github.com/KnpLabs/php-github-api) ⭐ 2,206 | 🐛 52 | 🌐 PHP | 📅 2026-08-18 - php的github api
 * [node-gitlab](https://github.com/node-gitlab/node-gitlab) ⭐ 1,731 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-13 - gitlab的node api
-* [pygit2](https://github.com/libgit2/pygit2) ⭐ 1,726 | 🐛 187 | 🌐 Python | 📅 2026-08-18 - libgit2的python版
+* [pygit2](https://github.com/libgit2/pygit2) ⭐ 1,725 | 🐛 187 | 🌐 Python | 📅 2026-08-18 - libgit2的python版
 * [git.js](https://github.com/danlucraft/git.js) ⭐ 1,303 | 🐛 6 | 🌐 JavaScript | 📅 2019-02-28 - git的js实现
 * [github3.py](https://github.com/sigmavirus24/github3.py) ⭐ 1,256 | 🐛 74 | 🌐 Python | 📅 2026-08-17 - GitHub API v3的python接口
 * [ruby-github](https://github.com/peter-murach/github) ⭐ 1,194 | 🐛 29 | 🌐 Ruby | 📅 2023-05-13 -Ruby实现的GitHub API库
@@ -371,10 +371,10 @@
 
 ### 其他的awesome
 
-* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,656 | 🐛 48 | 📅 2024-04-15 -一些酷酷的Git和GitHub功能收集
+* [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 58,670 | 🐛 48 | 📅 2024-04-15 -一些酷酷的Git和GitHub功能收集
 * [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,288 | 🐛 26 | 🌐 JavaScript | 📅 2024-08-18 -GitHub浏览器扩展收集列表
 * [awesome-github-templates](https://github.com/devspace/awesome-github-templates) ⭐ 2,313 | 🐛 12 | 📅 2023-07-03 - github issue 和 pull request的模版列表
-* [awesome-github](https://github.com/phillipadsmith/awesome-github) ⭐ 969 | 🐛 12 | 📅 2024-03-04 -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
+* [awesome-github](https://github.com/phillipadsmith/awesome-github) ⭐ 968 | 🐛 12 | 📅 2024-03-04 -[phillipadsmith](https://github.com/phillipadsmith)的awesome-github
 * [awesome-github](https://github.com/Kikobeats/awesome-github) ⭐ 695 | 🐛 3 | 📅 2021-02-13
 * [awesome-jekyll](https://github.com/planetjekyll/awesome-jekyll) ⭐ 593 | 🐛 0 | 📅 2021-01-11
 * [Make timeline in rightside longer](https://github.com/pierreneter/make-color-for-profile-rightside) ⚠️ Archived
@@ -397,4 +397,4 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
