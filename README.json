@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175426
+                "stars": 175439
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58689
+                "stars": 58694
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2026-08-10T06:01:21Z",
                 "owner": "git-tips",
                 "repo": "tips",
-                "stars": 21722
+                "stars": 21723
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2019-03-04T17:51:32Z",
                 "owner": "zhongyi-tong",
                 "repo": "git-recipes",
-                "stars": 14759
+                "stars": 14760
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2025-11-15T06:59:12Z",
                 "owner": "doggy8088",
                 "repo": "Learn-Git-in-30-days",
-                "stars": 4473
+                "stars": 4475
               }
             },
             {
@@ -286,6 +286,72 @@
           "description": null,
           "node_type": "group",
           "title": "Git使用"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jekyll 学习资料整理",
+              "description": "在学习的同时将内容整理很多相关资料",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37062390,
+                "language": null,
+                "last_commit": "2015-07-10T12:00:22Z",
+                "owner": "mba811",
+                "repo": "jekyll-study",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Pages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gitbook 使用入门",
+              "description": "本书将简单介绍如何安装、编写、生成、发布一本在线图书。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19876368,
+                "language": "Shell",
+                "last_commit": "2019-05-21T14:36:24Z",
+                "owner": "wwq0327",
+                "repo": "gitbook-zh",
+                "stars": 159
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitBook"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "learn-travis",
+              "description": "一个对于node.js开发者快速入门的教程",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13675287,
+                "language": "JavaScript",
+                "last_commit": "2022-03-24T12:06:38Z",
+                "owner": "dwyl",
+                "repo": "learn-travis",
+                "stars": 1228
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Travis CI"
         }
       ],
       "title": "教程"
@@ -358,7 +424,7 @@
                 "last_commit": "2024-10-10T10:15:02Z",
                 "owner": "pomber",
                 "repo": "git-history",
-                "stars": 13689
+                "stars": 13688
               }
             },
             {
@@ -373,13 +439,35 @@
                 "last_commit": "2024-07-10T18:45:27Z",
                 "owner": "mattvh",
                 "repo": "jekyllthemes",
-                "stars": 2336
+                "stars": 2337
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "常用网站"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CODELF",
+              "description": "基于Google Lovefiled，简洁快速，从开发者角度考虑，用完就走，不给开发者更多的管理负担。开源在GitHub上的链接unbug/codelf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47925804,
+                "language": "JavaScript",
+                "last_commit": "2025-06-06T02:57:56Z",
+                "owner": "unbug",
+                "repo": "codelf",
+                "stars": 14145
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Star管理"
         }
       ],
       "title": "网站"
@@ -401,7 +489,7 @@
                 "last_commit": "2026-08-12T18:42:36Z",
                 "owner": "hexojs",
                 "repo": "hexo",
-                "stars": 41771
+                "stars": 41773
               }
             },
             {
@@ -413,7 +501,7 @@
                 "archived": false,
                 "id": 32551735,
                 "language": "SCSS",
-                "last_commit": "2026-08-19T21:39:44Z",
+                "last_commit": "2026-08-24T05:33:39Z",
                 "owner": "primer",
                 "repo": "css",
                 "stars": 13009
@@ -461,7 +549,7 @@
                 "last_commit": "2020-05-06T22:37:29Z",
                 "owner": "jbt",
                 "repo": "markdown-editor",
-                "stars": 2875
+                "stars": 2874
               }
             },
             {
@@ -491,7 +579,7 @@
                 "last_commit": "2026-06-30T22:47:55Z",
                 "owner": "github",
                 "repo": "backup-utils",
-                "stars": 1270
+                "stars": 1271
               }
             },
             {
@@ -877,6 +965,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Gitter",
+              "description": "GitHub小程序客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164824151,
+                "language": "JavaScript",
+                "last_commit": "2021-08-10T21:32:18Z",
+                "owner": "nslogx",
+                "repo": "Gitter",
+                "stars": 3678
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "小程序"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "refined-github",
               "description": "chrome插件，简化你的github，增加了一些可用的功能",
               "children": [],
@@ -884,10 +994,10 @@
                 "archived": false,
                 "id": 51769689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T12:30:26Z",
+                "last_commit": "2026-08-24T11:22:52Z",
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 31974
+                "stars": 31978
               }
             },
             {
@@ -902,7 +1012,7 @@
                 "last_commit": "2024-06-06T17:52:26Z",
                 "owner": "ovity",
                 "repo": "octotree",
-                "stars": 23235
+                "stars": 23234
               }
             },
             {
@@ -1569,7 +1679,7 @@
                 "last_commit": "2023-12-04T14:41:06Z",
                 "owner": "jayphelps",
                 "repo": "git-blame-someone-else",
-                "stars": 11703
+                "stars": 11702
               }
             },
             {
@@ -1858,10 +1968,10 @@
                 "archived": false,
                 "id": 36502,
                 "language": "C",
-                "last_commit": "2026-08-24T00:46:26Z",
+                "last_commit": "2026-08-24T13:12:26Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62769
+                "stars": 62776
               }
             },
             {
@@ -1873,10 +1983,10 @@
                 "archived": false,
                 "id": 72495579,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:41:11Z",
+                "last_commit": "2026-08-24T11:37:20Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57562
+                "stars": 57570
               }
             },
             {
@@ -1903,7 +2013,7 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-23T12:14:54Z",
+                "last_commit": "2026-08-24T12:09:13Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
                 "stars": 24535
@@ -1936,7 +2046,7 @@
                 "last_commit": "2026-08-22T21:43:38Z",
                 "owner": "gitbucket",
                 "repo": "gitbucket",
-                "stars": 9392
+                "stars": 9393
               }
             },
             {
@@ -2036,10 +2146,10 @@
                 "archived": false,
                 "id": 5405654,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T18:37:38Z",
+                "last_commit": "2026-08-24T13:43:41Z",
                 "owner": "pcottle",
                 "repo": "learnGitBranching",
-                "stars": 33935
+                "stars": 33936
               }
             },
             {
@@ -2069,7 +2179,7 @@
                 "last_commit": "2025-09-24T14:22:08Z",
                 "owner": "AGWA",
                 "repo": "git-crypt",
-                "stars": 9861
+                "stars": 9862
               }
             },
             {
@@ -2084,7 +2194,7 @@
                 "last_commit": "2024-10-28T04:54:08Z",
                 "owner": "gelstudios",
                 "repo": "gitfiti",
-                "stars": 8443
+                "stars": 8444
               }
             },
             {
@@ -2099,7 +2209,7 @@
                 "last_commit": "2026-07-05T17:07:24Z",
                 "owner": "gitalk",
                 "repo": "gitalk",
-                "stars": 7171
+                "stars": 7170
               }
             },
             {
@@ -2481,7 +2591,7 @@
                 "last_commit": "2026-08-21T19:25:45Z",
                 "owner": "google",
                 "repo": "go-github",
-                "stars": 11279
+                "stars": 11280
               }
             },
             {
@@ -2496,7 +2606,7 @@
                 "last_commit": "2026-08-15T12:37:11Z",
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10568
+                "stars": 10569
               }
             },
             {
@@ -2508,7 +2618,7 @@
                 "archived": false,
                 "id": 3544490,
                 "language": "Python",
-                "last_commit": "2026-08-20T10:09:34Z",
+                "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
                 "stars": 7764
@@ -2523,7 +2633,7 @@
                 "archived": false,
                 "id": 3544490,
                 "language": "Python",
-                "last_commit": "2026-08-20T10:09:34Z",
+                "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
                 "stars": 7764
@@ -2538,7 +2648,7 @@
                 "archived": false,
                 "id": 3544490,
                 "language": "Python",
-                "last_commit": "2026-08-20T10:09:34Z",
+                "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
                 "stars": 7764
@@ -2927,7 +3037,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58689
+            "stars": 58694
           }
         },
         {
@@ -2942,7 +3052,7 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3288
+            "stars": 3289
           }
         },
         {
@@ -2972,7 +3082,7 @@
             "last_commit": "2024-03-04T15:57:12Z",
             "owner": "phillipadsmith",
             "repo": "awesome-github",
-            "stars": 968
+            "stars": 969
           }
         },
         {
@@ -3025,7 +3135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:46:31.832Z",
+    "last_updated": "2026-08-24T14:05:32.137Z",
     "original_repository": "AntBranch/awesome-github",
     "original_repository_id": 52947672,
     "original_repository_sha": "9de64fbe705125000ef253bf2a3d68bc14158843",
