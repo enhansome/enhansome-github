@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-23T16:06:45Z",
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175439
+                "stars": 175442
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2024-04-15T20:15:56Z",
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58694
+                "stars": 58701
               }
             },
             {
@@ -189,7 +189,7 @@
                 "last_commit": "2019-03-04T17:51:32Z",
                 "owner": "zhongyi-tong",
                 "repo": "git-recipes",
-                "stars": 14760
+                "stars": 14759
               }
             },
             {
@@ -424,7 +424,7 @@
                 "last_commit": "2024-10-10T10:15:02Z",
                 "owner": "pomber",
                 "repo": "git-history",
-                "stars": 13688
+                "stars": 13689
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2024-07-10T18:45:27Z",
                 "owner": "mattvh",
                 "repo": "jekyllthemes",
-                "stars": 2337
+                "stars": 2336
               }
             }
           ],
@@ -461,7 +461,7 @@
                 "last_commit": "2025-06-06T02:57:56Z",
                 "owner": "unbug",
                 "repo": "codelf",
-                "stars": 14145
+                "stars": 14146
               }
             }
           ],
@@ -489,7 +489,7 @@
                 "last_commit": "2026-08-12T18:42:36Z",
                 "owner": "hexojs",
                 "repo": "hexo",
-                "stars": 41773
+                "stars": 41774
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-24T05:33:39Z",
                 "owner": "primer",
                 "repo": "css",
-                "stars": 13009
+                "stars": 13010
               }
             },
             {
@@ -519,7 +519,7 @@
                 "last_commit": "2026-08-11T19:19:40Z",
                 "owner": "primer",
                 "repo": "octicons",
-                "stars": 8743
+                "stars": 8742
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2026-08-24T11:22:52Z",
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 31978
+                "stars": 31981
               }
             },
             {
@@ -1012,7 +1012,7 @@
                 "last_commit": "2024-06-06T17:52:26Z",
                 "owner": "ovity",
                 "repo": "octotree",
-                "stars": 23234
+                "stars": 23235
               }
             },
             {
@@ -1649,7 +1649,7 @@
                 "last_commit": "2025-10-14T09:12:50Z",
                 "owner": "nvie",
                 "repo": "gitflow",
-                "stars": 26795
+                "stars": 26794
               }
             },
             {
@@ -1679,7 +1679,7 @@
                 "last_commit": "2023-12-04T14:41:06Z",
                 "owner": "jayphelps",
                 "repo": "git-blame-someone-else",
-                "stars": 11702
+                "stars": 11703
               }
             },
             {
@@ -1769,7 +1769,7 @@
                 "last_commit": "2023-10-01T23:47:22Z",
                 "owner": "arc90",
                 "repo": "git-sweep",
-                "stars": 2707
+                "stars": 2708
               }
             },
             {
@@ -1968,10 +1968,10 @@
                 "archived": false,
                 "id": 36502,
                 "language": "C",
-                "last_commit": "2026-08-24T13:12:26Z",
+                "last_commit": "2026-08-24T17:17:12Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62776
+                "stars": 62784
               }
             },
             {
@@ -1983,10 +1983,10 @@
                 "archived": false,
                 "id": 72495579,
                 "language": "Go",
-                "last_commit": "2026-08-24T11:37:20Z",
+                "last_commit": "2026-08-25T00:23:04Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57570
+                "stars": 57581
               }
             },
             {
@@ -2001,7 +2001,7 @@
                 "last_commit": "2026-08-22T21:32:23Z",
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47759
+                "stars": 47761
               }
             },
             {
@@ -2013,7 +2013,7 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T12:09:13Z",
+                "last_commit": "2026-08-25T00:12:19Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
                 "stars": 24535
@@ -2031,7 +2031,7 @@
                 "last_commit": "2026-07-27T00:05:17Z",
                 "owner": "git-up",
                 "repo": "GitUp",
-                "stars": 12107
+                "stars": 12108
               }
             },
             {
@@ -2146,10 +2146,10 @@
                 "archived": false,
                 "id": 5405654,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:43:41Z",
+                "last_commit": "2026-08-24T18:28:41Z",
                 "owner": "pcottle",
                 "repo": "learnGitBranching",
-                "stars": 33936
+                "stars": 33938
               }
             },
             {
@@ -2164,7 +2164,7 @@
                 "last_commit": "2026-08-21T20:19:20Z",
                 "owner": "StylishThemes",
                 "repo": "GitHub-Dark",
-                "stars": 9967
+                "stars": 9968
               }
             },
             {
@@ -2179,7 +2179,7 @@
                 "last_commit": "2025-09-24T14:22:08Z",
                 "owner": "AGWA",
                 "repo": "git-crypt",
-                "stars": 9862
+                "stars": 9866
               }
             },
             {
@@ -2224,7 +2224,7 @@
                 "last_commit": "2024-08-11T18:24:57Z",
                 "owner": "Gazler",
                 "repo": "githug",
-                "stars": 6954
+                "stars": 6953
               }
             },
             {
@@ -2284,7 +2284,7 @@
                 "last_commit": "2025-05-25T05:42:50Z",
                 "owner": "igrigorik",
                 "repo": "gharchive.org",
-                "stars": 3071
+                "stars": 3072
               }
             },
             {
@@ -2591,7 +2591,7 @@
                 "last_commit": "2026-08-21T19:25:45Z",
                 "owner": "google",
                 "repo": "go-github",
-                "stars": 11280
+                "stars": 11281
               }
             },
             {
@@ -2606,7 +2606,7 @@
                 "last_commit": "2026-08-15T12:37:11Z",
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10569
+                "stars": 10570
               }
             },
             {
@@ -2621,7 +2621,7 @@
                 "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
-                "stars": 7764
+                "stars": 7765
               }
             },
             {
@@ -2636,7 +2636,7 @@
                 "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
-                "stars": 7764
+                "stars": 7765
               }
             },
             {
@@ -2651,7 +2651,7 @@
                 "last_commit": "2026-08-24T13:19:57Z",
                 "owner": "PyGithub",
                 "repo": "PyGithub",
-                "stars": 7764
+                "stars": 7765
               }
             },
             {
@@ -2696,7 +2696,7 @@
                 "last_commit": "2026-07-23T09:05:29Z",
                 "owner": "libgit2",
                 "repo": "libgit2sharp",
-                "stars": 3452
+                "stars": 3453
               }
             },
             {
@@ -2711,7 +2711,7 @@
                 "last_commit": "2026-08-18T07:59:10Z",
                 "owner": "KnpLabs",
                 "repo": "php-github-api",
-                "stars": 2206
+                "stars": 2207
               }
             },
             {
@@ -2741,7 +2741,7 @@
                 "last_commit": "2026-08-18T06:41:01Z",
                 "owner": "libgit2",
                 "repo": "pygit2",
-                "stars": 1725
+                "stars": 1726
               }
             },
             {
@@ -3037,7 +3037,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58694
+            "stars": 58701
           }
         },
         {
@@ -3052,7 +3052,7 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3289
+            "stars": 3290
           }
         },
         {
@@ -3082,7 +3082,7 @@
             "last_commit": "2024-03-04T15:57:12Z",
             "owner": "phillipadsmith",
             "repo": "awesome-github",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -3097,7 +3097,7 @@
             "last_commit": "2021-02-13T21:55:24Z",
             "owner": "Kikobeats",
             "repo": "awesome-github",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -3135,7 +3135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:32.137Z",
+    "last_updated": "2026-08-25T01:40:47.931Z",
     "original_repository": "AntBranch/awesome-github",
     "original_repository_id": 52947672,
     "original_repository_sha": "9de64fbe705125000ef253bf2a3d68bc14158843",
