@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-27T05:35:40Z",
                 "owner": "primer",
                 "repo": "css",
-                "stars": 13006
+                "stars": 13007
               }
             },
             {
@@ -758,7 +758,7 @@
                 "last_commit": "2022-03-19T15:39:54Z",
                 "owner": "jonan",
                 "repo": "ForkHub",
-                "stars": 2797
+                "stars": 2798
               }
             },
             {
@@ -997,7 +997,7 @@
                 "last_commit": "2026-08-27T08:02:58Z",
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 31992
+                "stars": 31995
               }
             },
             {
@@ -1679,7 +1679,7 @@
                 "last_commit": "2023-12-04T14:41:06Z",
                 "owner": "jayphelps",
                 "repo": "git-blame-someone-else",
-                "stars": 11703
+                "stars": 11704
               }
             },
             {
@@ -1971,7 +1971,7 @@
                 "last_commit": "2026-08-26T21:36:54Z",
                 "owner": "git",
                 "repo": "git",
-                "stars": 62817
+                "stars": 62819
               }
             },
             {
@@ -1986,7 +1986,7 @@
                 "last_commit": "2026-08-27T05:46:47Z",
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 57629
+                "stars": 57631
               }
             },
             {
@@ -2013,7 +2013,7 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-27T06:07:53Z",
+                "last_commit": "2026-08-27T09:34:18Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
                 "stars": 24540
@@ -2134,7 +2134,7 @@
                 "last_commit": "2023-02-15T06:38:51Z",
                 "owner": "resume",
                 "repo": "resume.github.com",
-                "stars": 62889
+                "stars": 62890
               }
             },
             {
@@ -2179,7 +2179,7 @@
                 "last_commit": "2025-09-24T14:22:08Z",
                 "owner": "AGWA",
                 "repo": "git-crypt",
-                "stars": 9871
+                "stars": 9872
               }
             },
             {
@@ -3067,7 +3067,7 @@
             "last_commit": "2023-07-03T07:04:21Z",
             "owner": "devspace",
             "repo": "awesome-github-templates",
-            "stars": 2312
+            "stars": 2313
           }
         },
         {
@@ -3135,9 +3135,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T08:49:06.845Z",
-    "original_repository": "AntBranch/awesome-github",
-    "original_repository_id": 52947672,
+    "last_updated": "2026-08-27T11:40:44.948Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52947672,
+      "language": null,
+      "last_commit": "2026-03-12T13:04:27Z",
+      "owner": "AntBranch",
+      "repo": "awesome-github",
+      "stars": 2177
+    },
     "original_repository_sha": "9de64fbe705125000ef253bf2a3d68bc14158843",
     "enhanced_repository": "enhansome/enhansome-github",
     "enhanced_repository_description": null,
