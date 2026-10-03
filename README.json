@@ -45,7 +45,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59418,
+                "stars": 59419,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3111,7 +3111,7 @@
                 "open_issues": 402,
                 "owner": "git",
                 "repo": "git",
-                "stars": 63524,
+                "stars": 63523,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -3927,8 +3927,8 @@
                 "id": 45854016,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:37:23Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-03T04:56:25Z",
+                "open_issues": 0,
                 "owner": "tomasbjerre",
                 "repo": "git-changelog-lib",
                 "stars": 218,
@@ -4824,7 +4824,7 @@
             "open_issues": 49,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59418,
+            "stars": 59419,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4987,7 +4987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:43.944Z",
+    "last_updated": "2026-10-03T05:17:18.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。",
