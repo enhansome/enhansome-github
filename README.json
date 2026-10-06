@@ -21,7 +21,7 @@
                 "open_issues": 67,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 176026,
+                "stars": 176027,
                 "topics": [
                   "git",
                   "gitignore"
@@ -45,7 +45,7 @@
                 "open_issues": 50,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59478,
+                "stars": 59485,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -721,10 +721,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-29T09:36:32Z",
-                "open_issues": 77,
+                "open_issues": 78,
                 "owner": "hexojs",
                 "repo": "hexo",
-                "stars": 41772,
+                "stars": 41773,
                 "topics": [
                   "hacktoberfest",
                   "hexo",
@@ -1527,11 +1527,11 @@
                 "id": 51769689,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T08:23:49Z",
+                "last_commit": "2026-10-06T08:13:59Z",
                 "open_issues": 77,
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 32266,
+                "stars": 32269,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -1560,7 +1560,7 @@
                 "open_issues": 0,
                 "owner": "ovity",
                 "repo": "octotree",
-                "stars": 23276,
+                "stars": 23278,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1948,7 +1948,7 @@
                 "language": "Java",
                 "license": "MIT",
                 "last_commit": "2026-10-05T03:06:39Z",
-                "open_issues": 514,
+                "open_issues": 515,
                 "owner": "jenkinsci",
                 "repo": "git-plugin",
                 "stars": 694,
@@ -2287,6 +2287,32 @@
             },
             {
               "node_type": "item",
+              "title": "github-integration-plugin",
+              "description": "Jenkins的GitHub集成插件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Jenkins GitHub Integration Plugin",
+                "homepage": "https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Integration+Plugin",
+                "id": 35024150,
+                "language": "Java",
+                "license": "MIT",
+                "last_commit": "2026-09-24T15:42:01Z",
+                "open_issues": 82,
+                "owner": "KostyaSha",
+                "repo": "github-integration-plugin",
+                "stars": 104,
+                "topics": [
+                  "github",
+                  "groovy",
+                  "java",
+                  "jenkins-plugin"
+                ]
+              },
+              "first_seen": "2026-08-28T11:02:11.991Z"
+            },
+            {
+              "node_type": "item",
               "title": "github-oauth-plugin",
               "description": "jenkins的github oauth登录插件",
               "children": [],
@@ -2308,32 +2334,6 @@
                   "jenkins",
                   "oauth",
                   "security"
-                ]
-              },
-              "first_seen": "2026-08-28T11:02:11.991Z"
-            },
-            {
-              "node_type": "item",
-              "title": "github-integration-plugin",
-              "description": "Jenkins的GitHub集成插件",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Jenkins GitHub Integration Plugin",
-                "homepage": "https://wiki.jenkins-ci.org/display/JENKINS/GitHub+Integration+Plugin",
-                "id": 35024150,
-                "language": "Java",
-                "license": "MIT",
-                "last_commit": "2026-09-24T15:42:01Z",
-                "open_issues": 82,
-                "owner": "KostyaSha",
-                "repo": "github-integration-plugin",
-                "stars": 103,
-                "topics": [
-                  "github",
-                  "groovy",
-                  "java",
-                  "jenkins-plugin"
                 ]
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3111,7 +3111,7 @@
                 "open_issues": 401,
                 "owner": "git",
                 "repo": "git",
-                "stars": 63691,
+                "stars": 63704,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -3132,11 +3132,11 @@
                 "id": 72495579,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T05:36:41Z",
-                "open_issues": 2454,
+                "last_commit": "2026-10-06T09:36:06Z",
+                "open_issues": 2448,
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 58318,
+                "stars": 58326,
                 "topics": [
                   "bitbucket",
                   "cicd",
@@ -3178,7 +3178,7 @@
                 "open_issues": 1010,
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47858,
+                "stars": 47859,
                 "topics": [
                   "docker",
                   "git",
@@ -3207,7 +3207,7 @@
                 "id": 2500088,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T03:07:55Z",
+                "last_commit": "2026-10-06T09:46:59Z",
                 "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
@@ -3233,7 +3233,7 @@
                 "language": "Objective-C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T12:10:43Z",
-                "open_issues": 358,
+                "open_issues": 359,
                 "owner": "git-up",
                 "repo": "GitUp",
                 "stars": 12131,
@@ -3380,7 +3380,7 @@
                 "open_issues": 78,
                 "owner": "resume",
                 "repo": "resume.github.com",
-                "stars": 62895,
+                "stars": 62896,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3401,7 +3401,7 @@
                 "open_issues": 56,
                 "owner": "pcottle",
                 "repo": "learnGitBranching",
-                "stars": 34116,
+                "stars": 34114,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3422,7 +3422,7 @@
                 "open_issues": 53,
                 "owner": "StylishThemes",
                 "repo": "GitHub-Dark",
-                "stars": 9986,
+                "stars": 9987,
                 "topics": [
                   "awesome",
                   "css",
@@ -3554,7 +3554,7 @@
                 "open_issues": 18,
                 "owner": "tholman",
                 "repo": "github-corners",
-                "stars": 4999,
+                "stars": 5000,
                 "topics": [
                   "fork-me",
                   "github",
@@ -3634,7 +3634,7 @@
                 "open_issues": 38,
                 "owner": "igrigorik",
                 "repo": "gharchive.org",
-                "stars": 3081,
+                "stars": 3080,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3702,7 +3702,7 @@
                 "open_issues": 102,
                 "owner": "vdaubry",
                 "repo": "github-awards",
-                "stars": 1576,
+                "stars": 1577,
                 "topics": [
                   "github",
                   "language",
@@ -4103,7 +4103,7 @@
                 "open_issues": 41,
                 "owner": "google",
                 "repo": "go-github",
-                "stars": 11316,
+                "stars": 11317,
                 "topics": [
                   "github",
                   "github-api",
@@ -4130,7 +4130,7 @@
                 "open_issues": 563,
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10617,
+                "stars": 10618,
                 "topics": [
                   "c",
                   "dvcs",
@@ -4824,7 +4824,7 @@
             "open_issues": 50,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59478,
+            "stars": 59485,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4987,7 +4987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T05:58:17.818Z",
+    "last_updated": "2026-10-06T10:28:49.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。",
