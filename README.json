@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "github",
                 "repo": "gitignore",
-                "stars": 175871,
+                "stars": 175884,
                 "topics": [
                   "git",
                   "gitignore"
@@ -45,7 +45,7 @@
                 "open_issues": 50,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59569,
+                "stars": 59592,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -100,7 +100,7 @@
                 "open_issues": 6,
                 "owner": "xirong",
                 "repo": "my-git",
-                "stars": 7399,
+                "stars": 7398,
                 "topics": [
                   "ai-coding",
                   "ai-native-development",
@@ -199,7 +199,7 @@
                 "open_issues": 1,
                 "owner": "lavor-zl",
                 "repo": "Github-Git",
-                "stars": 95,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -269,7 +269,7 @@
                 "open_issues": 5,
                 "owner": "git-tips",
                 "repo": "tips",
-                "stars": 21724,
+                "stars": 21722,
                 "topics": [
                   "git",
                   "tips",
@@ -319,7 +319,7 @@
                 "open_issues": 0,
                 "owner": "agis",
                 "repo": "git-style-guide",
-                "stars": 5111,
+                "stars": 5110,
                 "topics": [
                   "git",
                   "style",
@@ -684,7 +684,7 @@
                 "open_issues": 43,
                 "owner": "unbug",
                 "repo": "codelf",
-                "stars": 14129,
+                "stars": 14126,
                 "topics": [
                   "atom-plugin",
                   "chrome-extension",
@@ -724,7 +724,7 @@
                 "open_issues": 78,
                 "owner": "hexojs",
                 "repo": "hexo",
-                "stars": 41776,
+                "stars": 41778,
                 "topics": [
                   "hacktoberfest",
                   "hexo",
@@ -748,8 +748,8 @@
                 "id": 32551735,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:35:14Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-11T05:37:08Z",
+                "open_issues": 9,
                 "owner": "primer",
                 "repo": "css",
                 "stars": 13032,
@@ -815,7 +815,7 @@
                 "open_issues": 48,
                 "owner": "cjb",
                 "repo": "GitTorrent",
-                "stars": 4761,
+                "stars": 4760,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -885,7 +885,7 @@
                 "open_issues": 1,
                 "owner": "github",
                 "repo": "backup-utils",
-                "stars": 1275,
+                "stars": 1274,
                 "topics": [
                   "backups",
                   "github-enterprise"
@@ -1104,7 +1104,7 @@
                 "open_issues": 42,
                 "owner": "leichunfeng",
                 "repo": "MVVMReactiveCocoa",
-                "stars": 3683,
+                "stars": 3682,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -1317,7 +1317,7 @@
                 "open_issues": 1,
                 "owner": "andyiac",
                 "repo": "githot",
-                "stars": 377,
+                "stars": 375,
                 "topics": [
                   "android",
                   "githot",
@@ -1531,7 +1531,7 @@
                 "open_issues": 76,
                 "owner": "refined-github",
                 "repo": "refined-github",
-                "stars": 32285,
+                "stars": 32288,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -1592,7 +1592,7 @@
                 "open_issues": 2,
                 "owner": "airblade",
                 "repo": "vim-gitgutter",
-                "stars": 8515,
+                "stars": 8513,
                 "topics": [
                   "diff",
                   "git",
@@ -1619,7 +1619,7 @@
                 "open_issues": 62,
                 "owner": "OctoLinker",
                 "repo": "OctoLinker",
-                "stars": 5387,
+                "stars": 5388,
                 "topics": [
                   "browser-extension",
                   "github",
@@ -1646,7 +1646,7 @@
                 "open_issues": 62,
                 "owner": "OctoLinker",
                 "repo": "OctoLinker",
-                "stars": 5387,
+                "stars": 5388,
                 "topics": [
                   "browser-extension",
                   "github",
@@ -1673,7 +1673,7 @@
                 "open_issues": 8,
                 "owner": "gharlan",
                 "repo": "alfred-github-workflow",
-                "stars": 2915,
+                "stars": 2916,
                 "topics": [
                   "alfred",
                   "alfred-workflow",
@@ -1721,7 +1721,7 @@
                 "open_issues": 462,
                 "owner": "github",
                 "repo": "VisualStudio",
-                "stars": 2518,
+                "stars": 2519,
                 "topics": [
                   "c-sharp",
                   "git",
@@ -1768,7 +1768,7 @@
                 "open_issues": 27,
                 "owner": "sindresorhus",
                 "repo": "notifier-for-github",
-                "stars": 1987,
+                "stars": 1988,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -1824,7 +1824,7 @@
                 "open_issues": 8,
                 "owner": "muan",
                 "repo": "github-gmail",
-                "stars": 1268,
+                "stars": 1269,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -1870,7 +1870,7 @@
                 "open_issues": 18,
                 "owner": "algolia",
                 "repo": "github-awesome-autocomplete",
-                "stars": 1071,
+                "stars": 1070,
                 "topics": [
                   "algolia",
                   "chrome",
@@ -1898,7 +1898,7 @@
                 "open_issues": 14,
                 "owner": "pd4d10",
                 "repo": "octohint",
-                "stars": 966,
+                "stars": 967,
                 "topics": [
                   "browser-extension",
                   "chrome-extension",
@@ -1947,7 +1947,7 @@
                 "id": 612587,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-10T21:13:02Z",
+                "last_commit": "2026-10-11T11:34:17Z",
                 "open_issues": 506,
                 "owner": "jenkinsci",
                 "repo": "git-plugin",
@@ -1975,7 +1975,7 @@
                 "open_issues": 16,
                 "owner": "musically-ut",
                 "repo": "lovely-forks",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "addon",
                   "chrome-extension",
@@ -2589,7 +2589,7 @@
                 "open_issues": 0,
                 "owner": "nvie",
                 "repo": "gitflow",
-                "stars": 26779,
+                "stars": 26778,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -2765,7 +2765,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2022-03-02T04:42:43Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "qw3rtman",
                 "repo": "git-fire",
                 "stars": 4540,
@@ -2789,10 +2789,10 @@
                 "language": "Gherkin",
                 "license": "MIT",
                 "last_commit": "2026-09-26T13:41:20Z",
-                "open_issues": 55,
+                "open_issues": 54,
                 "owner": "git-town",
                 "repo": "git-town",
-                "stars": 3381,
+                "stars": 3382,
                 "topics": [
                   "command-line",
                   "git",
@@ -2819,7 +2819,7 @@
                 "open_issues": 45,
                 "owner": "arc90",
                 "repo": "git-sweep",
-                "stars": 2717,
+                "stars": 2716,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3107,11 +3107,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T23:12:49Z",
-                "open_issues": 401,
+                "last_commit": "2026-10-12T00:52:30Z",
+                "open_issues": 402,
                 "owner": "git",
                 "repo": "git",
-                "stars": 63784,
+                "stars": 63825,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -3132,11 +3132,11 @@
                 "id": 72495579,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-10T20:23:39Z",
-                "open_issues": 2313,
+                "last_commit": "2026-10-12T01:22:01Z",
+                "open_issues": 2317,
                 "owner": "go-gitea",
                 "repo": "gitea",
-                "stars": 58424,
+                "stars": 58449,
                 "topics": [
                   "bitbucket",
                   "cicd",
@@ -3175,10 +3175,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-12T20:28:48Z",
-                "open_issues": 1012,
+                "open_issues": 1009,
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47864,
+                "stars": 47865,
                 "topics": [
                   "docker",
                   "git",
@@ -3207,7 +3207,7 @@
                 "id": 2500088,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T03:07:59Z",
+                "last_commit": "2026-10-12T05:22:17Z",
                 "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
@@ -3236,7 +3236,7 @@
                 "open_issues": 360,
                 "owner": "git-up",
                 "repo": "GitUp",
-                "stars": 12134,
+                "stars": 12135,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3257,7 +3257,7 @@
                 "open_issues": 328,
                 "owner": "gitbucket",
                 "repo": "gitbucket",
-                "stars": 9402,
+                "stars": 9403,
                 "topics": [
                   "git",
                   "gitbucket",
@@ -3380,7 +3380,7 @@
                 "open_issues": 78,
                 "owner": "resume",
                 "repo": "resume.github.com",
-                "stars": 62899,
+                "stars": 62904,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3397,8 +3397,8 @@
                 "id": 5405654,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T13:39:27Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-11T13:13:06Z",
+                "open_issues": 57,
                 "owner": "pcottle",
                 "repo": "learnGitBranching",
                 "stars": 34121,
@@ -3422,7 +3422,7 @@
                 "open_issues": 53,
                 "owner": "StylishThemes",
                 "repo": "GitHub-Dark",
-                "stars": 9985,
+                "stars": 9987,
                 "topics": [
                   "awesome",
                   "css",
@@ -3452,7 +3452,7 @@
                 "open_issues": 128,
                 "owner": "AGWA",
                 "repo": "git-crypt",
-                "stars": 9952,
+                "stars": 9953,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3531,7 +3531,7 @@
                 "open_issues": 48,
                 "owner": "Gazler",
                 "repo": "githug",
-                "stars": 6955,
+                "stars": 6956,
                 "topics": [
                   "git"
                 ]
@@ -3580,7 +3580,7 @@
                 "open_issues": 226,
                 "owner": "src-d",
                 "repo": "go-git",
-                "stars": 4872,
+                "stars": 4871,
                 "topics": [
                   "git",
                   "git-client",
@@ -3607,7 +3607,7 @@
                 "open_issues": 40,
                 "owner": "lolcommits",
                 "repo": "lolcommits",
-                "stars": 4821,
+                "stars": 4820,
                 "topics": [
                   "git",
                   "git-addons",
@@ -3634,7 +3634,7 @@
                 "open_issues": 39,
                 "owner": "igrigorik",
                 "repo": "gharchive.org",
-                "stars": 3080,
+                "stars": 3081,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3681,7 +3681,7 @@
                 "open_issues": 32,
                 "owner": "lepture",
                 "repo": "github-cards",
-                "stars": 2140,
+                "stars": 2139,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -3816,7 +3816,7 @@
                 "open_issues": 13,
                 "owner": "thieman",
                 "repo": "github-selfies",
-                "stars": 1196,
+                "stars": 1197,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -4100,7 +4100,7 @@
                 "language": "Go",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-09T15:48:30Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "google",
                 "repo": "go-github",
                 "stars": 11315,
@@ -4126,11 +4126,11 @@
                 "id": 901662,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T13:52:24Z",
-                "open_issues": 556,
+                "last_commit": "2026-10-11T21:59:09Z",
+                "open_issues": 555,
                 "owner": "libgit2",
                 "repo": "libgit2",
-                "stars": 10623,
+                "stars": 10622,
                 "topics": [
                   "c",
                   "dvcs",
@@ -4236,7 +4236,7 @@
                 "open_issues": 367,
                 "owner": "nodegit",
                 "repo": "nodegit",
-                "stars": 5749,
+                "stars": 5750,
                 "topics": [
                   "c-plus-plus",
                   "electron",
@@ -4271,7 +4271,7 @@
                 "open_issues": 214,
                 "owner": "github-tools",
                 "repo": "github",
-                "stars": 3759,
+                "stars": 3760,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -4330,35 +4330,6 @@
             },
             {
               "node_type": "item",
-              "title": "node-gitlab",
-              "description": "gitlab的node api",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI ",
-                "homepage": null,
-                "id": 95022732,
-                "language": "TypeScript",
-                "license": "NOASSERTION",
-                "last_commit": "2026-10-08T16:37:54Z",
-                "open_issues": 44,
-                "owner": "jdalrymple",
-                "repo": "gitbeaker",
-                "stars": 1730,
-                "topics": [
-                  "api",
-                  "browser",
-                  "cli",
-                  "deno",
-                  "gitlab",
-                  "nodejs",
-                  "typescript"
-                ]
-              },
-              "first_seen": "2026-08-28T11:02:11.991Z"
-            },
-            {
-              "node_type": "item",
               "title": "pygit2",
               "description": "libgit2的python版",
               "children": [],
@@ -4370,13 +4341,42 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-30T09:29:57Z",
-                "open_issues": 189,
+                "open_issues": 190,
                 "owner": "libgit2",
                 "repo": "pygit2",
-                "stars": 1729,
+                "stars": 1731,
                 "topics": [
                   "git",
                   "python"
+                ]
+              },
+              "first_seen": "2026-08-28T11:02:11.991Z"
+            },
+            {
+              "node_type": "item",
+              "title": "node-gitlab",
+              "description": "gitlab的node api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI ",
+                "homepage": null,
+                "id": 95022732,
+                "language": "TypeScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-08T16:37:54Z",
+                "open_issues": 45,
+                "owner": "jdalrymple",
+                "repo": "gitbeaker",
+                "stars": 1730,
+                "topics": [
+                  "api",
+                  "browser",
+                  "cli",
+                  "deno",
+                  "gitlab",
+                  "nodejs",
+                  "typescript"
                 ]
               },
               "first_seen": "2026-08-28T11:02:11.991Z"
@@ -4824,7 +4824,7 @@
             "open_issues": 50,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59569,
+            "stars": 59592,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4851,7 +4851,7 @@
             "open_issues": 29,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3307,
+            "stars": 3308,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4922,7 +4922,7 @@
             "open_issues": 2,
             "owner": "Kikobeats",
             "repo": "awesome-github",
-            "stars": 698,
+            "stars": 699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4959,7 +4959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T05:22:27.945Z",
+    "last_updated": "2026-10-12T05:34:24.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。",
@@ -4971,7 +4971,7 @@
       "open_issues": 5,
       "owner": "AntBranch",
       "repo": "awesome-github",
-      "stars": 2181,
+      "stars": 2183,
       "topics": [
         "awesome-github",
         "awesome-list",
